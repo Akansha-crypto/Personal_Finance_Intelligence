@@ -1,0 +1,11 @@
+Transaction_ID,Date,Description,Amount,Category,Payment_Mode
+T0707,2025-11-26,PG Rent,19957,Rent,Cash
+T0728,2025-12-25,PG Rent,19812,Rent,Bank Transfer
+T0424,2025-11-25,House Rent,19747,Rent,UPI
+T0723,2025-09-29,PG Rent,19743,Rent,Bank Transfer
+T1226,2025-02-22,House Rent,19624,Rent,Debit Card
+T0274,2025-03-24,House Rent,19615,Rent,Cash
+T0089,2025-10-11,PG Rent,19608,Rent,Bank Transfer
+T0791,2025-02-22,Room Rent,19592,Rent,Credit Card
+T1298,2025-09-14,Room Rent,19582,Rent,Bank Transfer
+T0292,2025-11-06,PG Rent,19359,Rent,Bank Transfer

@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Description,Amount,Transaction_Type,Category,Payment_Mode
+T0026,2025-01-01,Medical Store,1116,Expense,Healthcare,Credit Card
+T0074,2025-01-01,Room Rent,17787,Expense,Rent,Debit Card
+T0882,2025-01-01,Myntra,2649,Expense,Shopping,Cash
+T0162,2025-01-02,Gaming,2475,Expense,Entertainment,Cash
+T0205,2025-01-02,Flipkart,4725,Expense,Shopping,Credit Card
+T0615,2025-01-02,OTT Subscription,2067,Expense,Entertainment,Debit Card
+T0671,2025-01-03,Mobile Recharge,1597,Expense,Bills,Cash
+T1164,2025-01-03,Swiggy,1063,Expense,Food,Bank Transfer
+T1241,2025-01-03,Ola,2115,Expense,Transport,Cash
+T1484,2025-01-03,College Fees,9668,Expense,Education,UPI
+T0033,2025-01-04,Cashback,2375,Income,Other Income,UPI
+T0428,2025-01-04,DMart,437,Expense,Groceries,Bank Transfer
+T0757,2025-01-04,Mobile Recharge,3775,Expense,Bills,UPI
+T0052,2025-01-05,Uber,2252,Expense,Transport,Debit Card
+T0061,2025-01-05,Interest,4969,Income,Other Income,UPI
+T0471,2025-01-06,Monthly Salary,42607,Income,Salary,Credit Card
+T0942,2025-01-06,DMart,2796,Expense,Groceries,Bank Transfer
+T1021,2025-01-06,Movie,377,Expense,Entertainment,Credit Card
+T1407,2025-01-06,House Rent,7389,Expense,Rent,Credit Card
+T0113,2025-01-07,Medical Store,3751,Expense,Healthcare,Credit Card
+T0691,2025-01-07,Metro,2401,Expense,Transport,Cash
+T0734,2025-01-07,Dinner,397,Expense,Food,UPI
+T0852,2025-01-07,Groceries,1125,Expense,Groceries,Credit Card
+T0157,2025-01-08,Ola,514,Expense,Transport,Cash
+T0414,2025-01-08,Electricity Bill,4223,Expense,Bills,Debit Card
+T0832,2025-01-08,Uber,2301,Expense,Transport,Credit Card
+T0956,2025-01-08,Auto Rickshaw,1893,Expense,Transport,Cash
+T0984,2025-01-08,BigBasket,1961,Expense,Groceries,Debit Card
+T1131,2025-01-08,Pizza,1780,Expense,Food,UPI
+T0399,2025-01-09,Uber,2482,Expense,Transport,UPI
+T0514,2025-01-09,Salary Credit,42959,Income,Salary,UPI
+T0762,2025-01-09,Bus Pass,74,Expense,Transport,Bank Transfer
+T1127,2025-01-09,Salary Credit,29402,Income,Salary,Cash
+T1168,2025-01-09,Spotify,1981,Expense,Entertainment,Bank Transfer
+T0583,2025-01-10,Online Course,9221,Expense,Education,Cash
+T0914,2025-01-10,Stationery,4212,Expense,Education,Credit Card
+T1383,2025-01-10,Stationery,1340,Expense,Education,Credit Card
+T0636,2025-01-11,Movie,1248,Expense,Entertainment,Cash
+T1473,2025-01-11,Books,1774,Expense,Education,Bank Transfer
+T0182,2025-01-12,Reliance Smart,366,Expense,Groceries,Bank Transfer
+T0957,2025-01-12,House Rent,9339,Expense,Rent,Bank Transfer
+T1320,2025-01-12,Electricity Bill,4088,Expense,Bills,Debit Card
+T0004,2025-01-14,PG Rent,9611,Expense,Rent,Cash
+T0314,2025-01-14,Online Course,9338,Expense,Education,Debit Card
+T0463,2025-01-14,Doctor Consultation,3791,Expense,Healthcare,Credit Card
+T1375,2025-01-14,Electronics,2280,Expense,Shopping,Cash
+T0156,2025-01-15,Mobile Recharge,2845,Expense,Bills,Bank Transfer
+T0174,2025-01-15,Salary Credit,39746,Income,Salary,Credit Card
+T0226,2025-01-15,Movie,1537,Expense,Entertainment,UPI
+T0877,2025-01-15,Freelance Payment,9801,Income,Freelance,Cash
+T1231,2025-01-15,Ola,577,Expense,Transport,Debit Card
+T1327,2025-01-15,Spotify,1947,Expense,Entertainment,Debit Card
+T1350,2025-01-15,Other Income,4219,Income,Other Income,Credit Card
+T1433,2025-01-15,Accessories,5130,Expense,Shopping,Cash
+T1455,2025-01-15,Electricity Bill,2504,Expense,Bills,Bank Transfer
+T0106,2025-01-16,Electricity Bill,1548,Expense,Bills,Debit Card
+T0571,2025-01-16,Doctor Consultation,975,Expense,Healthcare,Cash
+T0977,2025-01-16,Vegetables,2785,Expense,Groceries,Cash
+T1052,2025-01-16,Salary Credit,43684,Income,Salary,Cash
+T1257,2025-01-16,Monthly Salary,44322,Income,Salary,UPI
+T0003,2025-01-17,Monthly Salary,44559,Income,Salary,Bank Transfer
+T0034,2025-01-17,Bus Pass,1024,Expense,Transport,Credit Card
+T0140,2025-01-17,OTT Subscription,1959,Expense,Entertainment,UPI
+T0499,2025-01-17,College Fees,7493,Expense,Education,UPI
+T0600,2025-01-17,Stationery,3919,Expense,Education,Bank Transfer
+T1091,2025-01-17,Ola,2489,Expense,Transport,Debit Card
+T1263,2025-01-17,OTT Subscription,772,Expense,Entertainment,Cash
+T0186,2025-01-18,Amazon,7751,Expense,Shopping,Credit Card
+T1114,2025-01-18,Gift Received,4152,Income,Other Income,UPI
+T1165,2025-01-18,Vegetables,1102,Expense,Groceries,Cash
+T0152,2025-01-19,Course Fee,5596,Expense,Education,UPI
+T0167,2025-01-19,Gift Received,1322,Income,Other Income,Cash
+T1036,2025-01-19,House Rent,6067,Expense,Rent,Credit Card
+T1409,2025-01-19,Shoes,773,Expense,Shopping,Bank Transfer
+T1475,2025-01-19,Electricity Bill,1906,Expense,Bills,Cash
+T1078,2025-01-20,College Fees,9807,Expense,Education,Cash
+T0146,2025-01-21,Stationery,4402,Expense,Education,UPI
+T0255,2025-01-21,Health Checkup,4493,Expense,Healthcare,Bank Transfer
+T0569,2025-01-21,Books,1794,Expense,Education,Debit Card
+T0801,2025-01-21,Amazon,1662,Expense,Shopping,Credit Card
+T0990,2025-01-21,Room Rent,6807,Expense,Rent,Debit Card
+T1246,2025-01-21,Freelance Work,8304,Income,Freelance,Credit Card
+T0943,2025-01-22,Myntra,4415,Expense,Shopping,Debit Card
+T0989,2025-01-22,Gas Bill,4706,Expense,Bills,Cash
+T1334,2025-01-22,Spotify,2163,Expense,Entertainment,Cash
+T0560,2025-01-23,PG Rent,17482,Expense,Rent,Credit Card
+T0960,2025-01-23,Pizza,511,Expense,Food,Bank Transfer
+T1037,2025-01-23,Auto Rickshaw,1962,Expense,Transport,UPI
+T0010,2025-01-24,Netflix,1053,Expense,Entertainment,UPI
+T0548,2025-01-24,BigBasket,1766,Expense,Groceries,UPI
+T0721,2025-01-24,Metro,1895,Expense,Transport,Cash
+T1368,2025-01-24,Gift Received,3071,Income,Other Income,Bank Transfer
+T1446,2025-01-24,Lunch,995,Expense,Food,Debit Card
+T0282,2025-01-25,Medical Store,1108,Expense,Healthcare,Cash
+T0683,2025-01-25,Swiggy,1512,Expense,Food,UPI
+T1221,2025-01-25,Room Rent,7258,Expense,Rent,Bank Transfer
+T1434,2025-01-25,Movie,983,Expense,Entertainment,Debit Card
+T1483,2025-01-25,Groceries,3977,Expense,Groceries,Credit Card
+T0231,2025-01-26,Concert,1836,Expense,Entertainment,Cash
+T0337,2025-01-26,Medicine,4596,Expense,Healthcare,UPI
+T0694,2025-01-26,Monthly Salary,37521,Income,Salary,Credit Card
+T0891,2025-01-26,Restaurant,309,Expense,Food,Credit Card
+T0105,2025-01-27,Books,1424,Expense,Education,UPI
+T0222,2025-01-27,Movie,524,Expense,Entertainment,Bank Transfer
+T0364,2025-01-27,Project Payment,9739,Income,Freelance,UPI
+T0746,2025-01-27,Concert,2445,Expense,Entertainment,Bank Transfer
+T1094,2025-01-27,Vegetables,2768,Expense,Groceries,Cash
+T1380,2025-01-27,Train Ticket,1818,Expense,Transport,Cash
+T0038,2025-01-28,Uber,1699,Expense,Transport,Credit Card
+T0130,2025-01-28,Electronics,7414,Expense,Shopping,Cash
+T0668,2025-01-28,Flipkart,1940,Expense,Shopping,Credit Card
+T0955,2025-01-28,Accessories,7119,Expense,Shopping,Credit Card
+T1179,2025-01-28,Freelance Payment,9966,Income,Freelance,Bank Transfer
+T1341,2025-01-28,Coffee,632,Expense,Food,Debit Card
+T0588,2025-01-29,Gas Bill,3481,Expense,Bills,Credit Card
+T0640,2025-01-29,Amazon,2848,Expense,Shopping,Bank Transfer
+T1007,2025-01-29,Restaurant,166,Expense,Food,Bank Transfer
+T1026,2025-01-29,Gaming,1392,Expense,Entertainment,Bank Transfer
+T1120,2025-01-29,Auto Rickshaw,2239,Expense,Transport,Credit Card
+T0409,2025-01-30,Groceries,4641,Expense,Groceries,Debit Card
+T0539,2025-01-30,DMart,4014,Expense,Groceries,Bank Transfer
+T0586,2025-01-30,Medicine,4984,Expense,Healthcare,Debit Card
+T1219,2025-01-30,Project Payment,4219,Income,Freelance,Credit Card
+T0137,2025-01-31,Metro,901,Expense,Transport,Debit Card
+T0559,2025-01-31,Electronics,2592,Expense,Shopping,UPI
+T0906,2025-01-31,Electronics,4693,Expense,Shopping,UPI
+T1235,2025-01-31,Netflix,371,Expense,Entertainment,Credit Card
+T1461,2025-01-31,Medicine,5097,Expense,Healthcare,Credit Card
+T0211,2025-02-01,Vegetables,1184,Expense,Groceries,Cash
+T0385,2025-02-01,House Rent,15383,Expense,Rent,Bank Transfer
+T1067,2025-02-01,House Rent,6013,Expense,Rent,Bank Transfer
+T1424,2025-02-01,Clothes,2059,Expense,Shopping,Cash
+T1454,2025-02-01,PG Rent,7072,Expense,Rent,Cash
+T0032,2025-02-02,House Rent,15641,Expense,Rent,Debit Card
+T0703,2025-02-02,College Fees,8898,Expense,Education,Bank Transfer
+T0763,2025-02-02,Zomato,832,Expense,Food,Bank Transfer
+T0915,2025-02-02,PG Rent,9110,Expense,Rent,Bank Transfer
+T1126,2025-02-02,Concert,2287,Expense,Entertainment,Cash
+T1136,2025-02-02,Salary Credit,33506,Income,Salary,Credit Card
+T0133,2025-02-03,Bus Pass,269,Expense,Transport,Debit Card
+T0985,2025-02-03,Health Checkup,5834,Expense,Healthcare,Credit Card
+T1012,2025-02-03,Amazon,5990,Expense,Shopping,Credit Card
+T1478,2025-02-03,Interest,4785,Income,Other Income,Credit Card
+T0219,2025-02-04,Monthly Salary,42151,Income,Salary,UPI
+T0249,2025-02-04,Movie,330,Expense,Entertainment,Credit Card
+T0426,2025-02-04,Cafe,1135,Expense,Food,Cash
+T0534,2025-02-04,Monthly Salary,29981,Income,Salary,Cash
+T0161,2025-02-05,Reliance Smart,4459,Expense,Groceries,Credit Card
+T1118,2025-02-05,Dinner,1511,Expense,Food,Cash
+T0143,2025-02-06,Project Payment,14270,Income,Freelance,Bank Transfer
+T0238,2025-02-06,Dinner,138,Expense,Food,Cash
+T0868,2025-02-06,Freelance Work,7136,Income,Freelance,Credit Card
+T0896,2025-02-06,Flipkart,7637,Expense,Shopping,Credit Card
+T0924,2025-02-06,Ola,2177,Expense,Transport,UPI
+T1151,2025-02-06,Medicine,3632,Expense,Healthcare,Debit Card
+T1353,2025-02-06,DMart,3567,Expense,Groceries,Credit Card
+T0607,2025-02-07,Pizza,141,Expense,Food,Credit Card
+T0772,2025-02-07,Auto Rickshaw,452,Expense,Transport,Debit Card
+T1154,2025-02-07,Medical Store,3770,Expense,Healthcare,Debit Card
+T0139,2025-02-08,Vegetables,4149,Expense,Groceries,Credit Card
+T0239,2025-02-09,Groceries,3613,Expense,Groceries,Cash
+T0796,2025-02-09,Spotify,715,Expense,Entertainment,Debit Card
+T1087,2025-02-09,Movie,642,Expense,Entertainment,Bank Transfer
+T1425,2025-02-09,PG Rent,15637,Expense,Rent,Bank Transfer
+T0710,2025-02-10,Medical Store,4283,Expense,Healthcare,Cash
+T0866,2025-02-10,Concert,693,Expense,Entertainment,Debit Card
+T0887,2025-02-10,Gas Bill,2527,Expense,Bills,Credit Card
+T0922,2025-02-10,Lunch,1242,Expense,Food,Cash
+T1005,2025-02-10,Cafe,1220,Expense,Food,Credit Card
+T1080,2025-02-10,Ola,1985,Expense,Transport,UPI
+T0277,2025-02-11,Lunch,302,Expense,Food,Credit Card
+T0670,2025-02-11,Myntra,5497,Expense,Shopping,UPI
+T0780,2025-02-11,Shoes,1909,Expense,Shopping,Credit Card
+T1121,2025-02-11,OTT Subscription,931,Expense,Entertainment,Debit Card
+T1139,2025-02-11,Monthly Salary,37297,Income,Salary,Cash
+T1182,2025-02-11,Myntra,930,Expense,Shopping,UPI
+T0494,2025-02-12,Internet Bill,567,Expense,Bills,Credit Card
+T0536,2025-02-12,Room Rent,8501,Expense,Rent,Credit Card
+T0537,2025-02-12,House Rent,19239,Expense,Rent,Debit Card
+T0756,2025-02-12,Accessories,4707,Expense,Shopping,Bank Transfer
+T1362,2025-02-12,DMart,4212,Expense,Groceries,Credit Card
+T0121,2025-02-13,Vegetables,4848,Expense,Groceries,Debit Card
+T1124,2025-02-13,Doctor Consultation,1346,Expense,Healthcare,UPI
+T1442,2025-02-13,Room Rent,18412,Expense,Rent,UPI
+T0311,2025-02-14,Course Fee,1363,Expense,Education,Bank Transfer
+T1106,2025-02-14,Clothes,5677,Expense,Shopping,Bank Transfer
+T0367,2025-02-15,Gas Bill,605,Expense,Bills,Debit Card
+T0522,2025-02-15,Uber,1333,Expense,Transport,Credit Card
+T0672,2025-02-15,Project Payment,9035,Income,Freelance,Cash
+T1143,2025-02-15,Movie,1815,Expense,Entertainment,UPI
+T1439,2025-02-15,Vegetables,2207,Expense,Groceries,Cash
+T0147,2025-02-16,Pizza,1280,Expense,Food,UPI
+T0191,2025-02-16,Pizza,1198,Expense,Food,UPI
+T0228,2025-02-16,Water Bill,3739,Expense,Bills,Cash
+T0275,2025-02-16,Water Bill,3163,Expense,Bills,UPI
+T0618,2025-02-16,BigBasket,3339,Expense,Groceries,Cash
+T0893,2025-02-16,Doctor Consultation,3000,Expense,Healthcare,Cash
+T0993,2025-02-16,Ola,2447,Expense,Transport,Bank Transfer
+T0997,2025-02-16,Project Payment,7946,Income,Freelance,UPI
+T1448,2025-02-16,Monthly Salary,37350,Income,Salary,Debit Card
+T0262,2025-02-17,Groceries,3264,Expense,Groceries,UPI
+T0842,2025-02-17,College Fees,9385,Expense,Education,Debit Card
+T1033,2025-02-17,Coffee,1124,Expense,Food,Debit Card
+T0258,2025-02-18,Reliance Smart,2364,Expense,Groceries,Bank Transfer
+T0705,2025-02-18,Water Bill,3132,Expense,Bills,Cash
+T0037,2025-02-19,Online Course,7035,Expense,Education,Cash
+T0616,2025-02-19,Salary Credit,30684,Income,Salary,Cash
+T0716,2025-02-19,Electricity Bill,3096,Expense,Bills,Credit Card
+T1060,2025-02-19,Myntra,3624,Expense,Shopping,UPI
+T1224,2025-02-19,Books,511,Expense,Education,Debit Card
+T0173,2025-02-20,Petrol,731,Expense,Transport,Credit Card
+T0200,2025-02-20,Stationery,6176,Expense,Education,UPI
+T0443,2025-02-20,Auto Rickshaw,2489,Expense,Transport,Cash
+T1035,2025-02-20,Room Rent,8174,Expense,Rent,Debit Card
+T1153,2025-02-20,BigBasket,3376,Expense,Groceries,Debit Card
+T1423,2025-02-20,Freelance Payment,3342,Income,Freelance,UPI
+T0168,2025-02-21,Medical Store,1380,Expense,Healthcare,Cash
+T0632,2025-02-21,PG Rent,12732,Expense,Rent,Credit Card
+T0774,2025-02-21,Ola,1351,Expense,Transport,Cash
+T0857,2025-02-21,Gas Bill,3840,Expense,Bills,Cash
+T0925,2025-02-21,PG Rent,9104,Expense,Rent,Debit Card
+T1138,2025-02-21,BigBasket,428,Expense,Groceries,Cash
+T1276,2025-02-21,Internet Bill,4369,Expense,Bills,Bank Transfer
+T0131,2025-02-22,Concert,2060,Expense,Entertainment,Cash
+T0254,2025-02-22,College Fees,8566,Expense,Education,Debit Card
+T0273,2025-02-22,House Rent,10670,Expense,Rent,UPI
+T0572,2025-02-22,Amazon,397,Expense,Shopping,UPI
+T0712,2025-02-22,Swiggy,1791,Expense,Food,UPI
+T0791,2025-02-22,Room Rent,19592,Expense,Rent,Credit Card
+T0873,2025-02-22,Project Payment,2881,Income,Freelance,UPI
+T1038,2025-02-22,Netflix,2465,Expense,Entertainment,Credit Card
+T1226,2025-02-22,House Rent,19624,Expense,Rent,Debit Card
+T0601,2025-02-23,Myntra,6405,Expense,Shopping,UPI
+T0181,2025-02-24,Stationery,5147,Expense,Education,Credit Card
+T0566,2025-02-24,Medicine,3530,Expense,Healthcare,UPI
+T0719,2025-02-24,Mobile Recharge,1289,Expense,Bills,Cash
+T0764,2025-02-24,Gaming,454,Expense,Entertainment,Credit Card
+T0919,2025-02-24,Uber,2388,Expense,Transport,Cash
+T1398,2025-02-24,Metro,2353,Expense,Transport,UPI
+T0039,2025-02-25,Gas Bill,3975,Expense,Bills,Debit Card
+T0193,2025-02-25,Medical Store,5275,Expense,Healthcare,Bank Transfer
+T0338,2025-02-25,OTT Subscription,1598,Expense,Entertainment,Cash
+T0469,2025-02-25,Books,1025,Expense,Education,Bank Transfer
+T1256,2025-02-25,Freelance Payment,5781,Income,Freelance,Debit Card
+T1365,2025-02-25,DMart,4106,Expense,Groceries,Bank Transfer
+T1488,2025-02-25,College Fees,5765,Expense,Education,Bank Transfer
+T1158,2025-02-26,Health Checkup,1602,Expense,Healthcare,Credit Card
+T1476,2025-02-26,PG Rent,8793,Expense,Rent,Bank Transfer
+T0531,2025-02-27,Bus Pass,99,Expense,Transport,Credit Card
+T1344,2025-02-27,Amazon,3163,Expense,Shopping,UPI
+T0142,2025-02-28,Myntra,7071,Expense,Shopping,Debit Card
+T0485,2025-02-28,Doctor Consultation,5718,Expense,Healthcare,Credit Card
+T0698,2025-02-28,Medicine,3359,Expense,Healthcare,Cash
+T0753,2025-02-28,Room Rent,10633,Expense,Rent,UPI
+T0771,2025-02-28,Coffee,1420,Expense,Food,Bank Transfer
+T1367,2025-02-28,Doctor Consultation,1692,Expense,Healthcare,Cash
+T0617,2025-03-01,Vegetables,4306,Expense,Groceries,Credit Card
+T1200,2025-03-01,Groceries,2105,Expense,Groceries,Cash
+T1229,2025-03-01,Coffee,813,Expense,Food,Credit Card
+T0158,2025-03-02,Clothes,7940,Expense,Shopping,Credit Card
+T0395,2025-03-02,PG Rent,14664,Expense,Rent,Debit Card
+T0816,2025-03-02,BigBasket,2887,Expense,Groceries,Cash
+T1002,2025-03-02,Electricity Bill,2373,Expense,Bills,UPI
+T1128,2025-03-02,PG Rent,17109,Expense,Rent,Bank Transfer
+T1324,2025-03-02,Mobile Recharge,2480,Expense,Bills,Credit Card
+T1432,2025-03-02,Course Fee,5116,Expense,Education,Cash
+T0667,2025-03-03,Groceries,2744,Expense,Groceries,Cash
+T0743,2025-03-03,Reliance Smart,4859,Expense,Groceries,Credit Card
+T1431,2025-03-03,Netflix,2241,Expense,Entertainment,Debit Card
+T0310,2025-03-04,Salary Credit,33657,Income,Salary,Cash
+T0359,2025-03-04,PG Rent,12464,Expense,Rent,Credit Card
+T0576,2025-03-04,Freelance Work,4752,Income,Freelance,Bank Transfer
+T1119,2025-03-04,Course Fee,5261,Expense,Education,Cash
+T1472,2025-03-05,Water Bill,376,Expense,Bills,Debit Card
+T0107,2025-03-06,Bus Pass,942,Expense,Transport,Cash
+T0208,2025-03-06,House Rent,18216,Expense,Rent,UPI
+T0322,2025-03-06,House Rent,14234,Expense,Rent,Debit Card
+T0627,2025-03-06,Salary Credit,34616,Income,Salary,Debit Card
+T0907,2025-03-06,Stationery,5990,Expense,Education,Cash
+T1374,2025-03-06,Monthly Salary,28520,Income,Salary,Debit Card
+T0599,2025-03-07,Dinner,1678,Expense,Food,Bank Transfer
+T0662,2025-03-07,House Rent,17136,Expense,Rent,Credit Card
+T0725,2025-03-07,Gift Received,4629,Income,Other Income,Cash
+T0800,2025-03-07,Flipkart,5457,Expense,Shopping,Bank Transfer
+T0237,2025-03-08,Gas Bill,4877,Expense,Bills,Credit Card
+T0260,2025-03-08,Auto Rickshaw,2339,Expense,Transport,Cash
+T0744,2025-03-08,Netflix,1453,Expense,Entertainment,Cash
+T1390,2025-03-08,Shoes,4331,Expense,Shopping,UPI
+T0979,2025-03-09,Gaming,2422,Expense,Entertainment,Bank Transfer
+T1185,2025-03-09,Vegetables,475,Expense,Groceries,Credit Card
+T0056,2025-03-10,Train Ticket,2316,Expense,Transport,Debit Card
+T0562,2025-03-10,DMart,4951,Expense,Groceries,UPI
+T0778,2025-03-10,Online Course,7883,Expense,Education,Cash
+T1329,2025-03-10,BigBasket,3441,Expense,Groceries,Cash
+T0102,2025-03-11,Amazon,2431,Expense,Shopping,Cash
+T0457,2025-03-11,Reliance Smart,3412,Expense,Groceries,Credit Card
+T0504,2025-03-11,DMart,2571,Expense,Groceries,Debit Card
+T0948,2025-03-11,Water Bill,3538,Expense,Bills,Bank Transfer
+T0994,2025-03-11,Online Course,708,Expense,Education,Debit Card
+T1156,2025-03-11,Internet Bill,2509,Expense,Bills,Debit Card
+T1294,2025-03-11,Project Payment,11022,Income,Freelance,Debit Card
+T0272,2025-03-12,Coffee,860,Expense,Food,Bank Transfer
+T0696,2025-03-12,Myntra,3228,Expense,Shopping,Cash
+T0974,2025-03-12,House Rent,13046,Expense,Rent,Debit Card
+T1499,2025-03-12,Restaurant,738,Expense,Food,Bank Transfer
+T0002,2025-03-13,House Rent,15674,Expense,Rent,Cash
+T0017,2025-03-13,Room Rent,10304,Expense,Rent,Bank Transfer
+T0402,2025-03-13,Spotify,2459,Expense,Entertainment,Credit Card
+T0442,2025-03-13,Bus Pass,1466,Expense,Transport,UPI
+T1208,2025-03-13,Ola,901,Expense,Transport,Credit Card
+T0190,2025-03-14,Water Bill,4865,Expense,Bills,Credit Card
+T0768,2025-03-14,Salary Credit,30789,Income,Salary,Credit Card
+T0770,2025-03-14,Gas Bill,2370,Expense,Bills,Debit Card
+T1458,2025-03-14,Accessories,2308,Expense,Shopping,Bank Transfer
+T0440,2025-03-15,DMart,2751,Expense,Groceries,Debit Card
+T1050,2025-03-15,Movie,1705,Expense,Entertainment,Debit Card
+T1301,2025-03-15,Salary Credit,42400,Income,Salary,Cash
+T0278,2025-03-16,Freelance Payment,13404,Income,Freelance,Debit Card
+T0360,2025-03-16,OTT Subscription,423,Expense,Entertainment,Credit Card
+T0736,2025-03-16,Spotify,2316,Expense,Entertainment,UPI
+T0085,2025-03-17,Zomato,1694,Expense,Food,Cash
+T0213,2025-03-17,Project Payment,12372,Income,Freelance,Bank Transfer
+T0946,2025-03-17,Salary Credit,29615,Income,Salary,Bank Transfer
+T0134,2025-03-18,Netflix,1116,Expense,Entertainment,UPI
+T0163,2025-03-18,Medicine,2923,Expense,Healthcare,Bank Transfer
+T0259,2025-03-18,Myntra,2841,Expense,Shopping,Cash
+T0386,2025-03-18,PG Rent,7904,Expense,Rent,Debit Card
+T0631,2025-03-18,Cashback,1365,Income,Other Income,Bank Transfer
+T0692,2025-03-18,House Rent,17854,Expense,Rent,UPI
+T0706,2025-03-18,Room Rent,6894,Expense,Rent,UPI
+T1028,2025-03-18,Lunch,868,Expense,Food,Bank Transfer
+T1129,2025-03-18,Electricity Bill,602,Expense,Bills,Debit Card
+T1147,2025-03-18,Health Checkup,1644,Expense,Healthcare,Debit Card
+T1363,2025-03-18,Spotify,2242,Expense,Entertainment,Cash
+T0556,2025-03-19,Freelance Work,5817,Income,Freelance,Bank Transfer
+T1340,2025-03-19,Medical Store,1747,Expense,Healthcare,Debit Card
+T0305,2025-03-20,Course Fee,7573,Expense,Education,UPI
+T0944,2025-03-20,Other Income,4150,Income,Other Income,Bank Transfer
+T0972,2025-03-20,Gaming,1448,Expense,Entertainment,Cash
+T1214,2025-03-20,Medical Store,5556,Expense,Healthcare,Credit Card
+T1378,2025-03-20,Health Checkup,4062,Expense,Healthcare,UPI
+T0045,2025-03-21,Electricity Bill,4741,Expense,Bills,UPI
+T0398,2025-03-21,Uber,1767,Expense,Transport,Bank Transfer
+T0875,2025-03-21,Freelance Payment,5757,Income,Freelance,Debit Card
+T1197,2025-03-21,Gift Received,2921,Income,Other Income,Cash
+T0047,2025-03-22,Cashback,2022,Income,Other Income,UPI
+T0179,2025-03-22,Project Payment,6901,Income,Freelance,Cash
+T0797,2025-03-22,Train Ticket,993,Expense,Transport,Cash
+T0967,2025-03-22,Gift Received,3411,Income,Other Income,Credit Card
+T1041,2025-03-22,Zomato,523,Expense,Food,Bank Transfer
+T1400,2025-03-22,Health Checkup,1013,Expense,Healthcare,Debit Card
+T1430,2025-03-22,College Fees,6994,Expense,Education,UPI
+T0587,2025-03-23,Interest,2683,Income,Other Income,Bank Transfer
+T0700,2025-03-23,Other Income,4089,Income,Other Income,Debit Card
+T0060,2025-03-24,Room Rent,13007,Expense,Rent,Bank Transfer
+T0274,2025-03-24,House Rent,19615,Expense,Rent,Cash
+T0609,2025-03-24,House Rent,11536,Expense,Rent,Bank Transfer
+T0824,2025-03-24,Zomato,1786,Expense,Food,Debit Card
+T0912,2025-03-24,Salary Credit,37688,Income,Salary,Credit Card
+T1192,2025-03-24,Lunch,1276,Expense,Food,Debit Card
+T1389,2025-03-24,OTT Subscription,453,Expense,Entertainment,Cash
+T0065,2025-03-25,Clothes,503,Expense,Shopping,Debit Card
+T0886,2025-03-25,Vegetables,2107,Expense,Groceries,Credit Card
+T1000,2025-03-25,Accessories,6133,Expense,Shopping,UPI
+T1220,2025-03-25,Freelance Payment,12424,Income,Freelance,Credit Card
+T1355,2025-03-25,Reliance Smart,1562,Expense,Groceries,UPI
+T0043,2025-03-26,Reliance Smart,4027,Expense,Groceries,Credit Card
+T0100,2025-03-26,Shoes,4675,Expense,Shopping,UPI
+T0708,2025-03-26,Freelance Payment,5946,Income,Freelance,Credit Card
+T1029,2025-03-26,BigBasket,1257,Expense,Groceries,Credit Card
+T1183,2025-03-26,Clothes,1532,Expense,Shopping,Debit Card
+T1441,2025-03-26,Gaming,607,Expense,Entertainment,Bank Transfer
+T1486,2025-03-26,Train Ticket,446,Expense,Transport,UPI
+T0042,2025-03-27,Doctor Consultation,3485,Expense,Healthcare,UPI
+T0546,2025-03-27,Netflix,2450,Expense,Entertainment,UPI
+T0677,2025-03-27,Salary Credit,37529,Income,Salary,Cash
+T0806,2025-03-27,Online Course,9976,Expense,Education,UPI
+T0928,2025-03-27,PG Rent,14268,Expense,Rent,Credit Card
+T1084,2025-03-27,Gift Received,2633,Income,Other Income,UPI
+T1223,2025-03-27,Course Fee,4747,Expense,Education,Credit Card
+T1053,2025-03-29,Stationery,9715,Expense,Education,Debit Card
+T1160,2025-03-29,House Rent,7416,Expense,Rent,Cash
+T0589,2025-03-30,Course Fee,9992,Expense,Education,UPI
+T0626,2025-03-30,Flipkart,6922,Expense,Shopping,Debit Card
+T0939,2025-03-30,Bus Pass,1280,Expense,Transport,UPI
+T0148,2025-03-31,Medicine,1686,Expense,Healthcare,Bank Transfer
+T0176,2025-03-31,Project Payment,13192,Income,Freelance,Debit Card
+T0206,2025-03-31,Monthly Salary,28486,Income,Salary,Credit Card
+T1089,2025-03-31,Electronics,3958,Expense,Shopping,Credit Card
+T1090,2025-03-31,Water Bill,1781,Expense,Bills,Bank Transfer
+T1211,2025-03-31,Flipkart,1823,Expense,Shopping,Cash
+T0247,2025-04-01,Health Checkup,4818,Expense,Healthcare,Bank Transfer
+T0742,2025-04-01,Ola,761,Expense,Transport,Bank Transfer
+T0859,2025-04-01,Accessories,5466,Expense,Shopping,Bank Transfer
+T0879,2025-04-01,Health Checkup,4488,Expense,Healthcare,Bank Transfer
+T1010,2025-04-01,College Fees,1825,Expense,Education,Credit Card
+T0024,2025-04-02,Metro,1272,Expense,Transport,Bank Transfer
+T0129,2025-04-02,House Rent,10494,Expense,Rent,UPI
+T0430,2025-04-02,Monthly Salary,35896,Income,Salary,Debit Card
+T0439,2025-04-02,College Fees,3694,Expense,Education,Bank Transfer
+T0760,2025-04-02,House Rent,15420,Expense,Rent,Debit Card
+T0787,2025-04-02,Electronics,6296,Expense,Shopping,Cash
+T1009,2025-04-02,Gaming,2444,Expense,Entertainment,Bank Transfer
+T1111,2025-04-02,Doctor Consultation,5199,Expense,Healthcare,Cash
+T1112,2025-04-02,Ola,2264,Expense,Transport,Cash
+T1258,2025-04-02,Books,5260,Expense,Education,Bank Transfer
+T1354,2025-04-02,DMart,468,Expense,Groceries,Debit Card
+T0227,2025-04-03,DMart,1462,Expense,Groceries,UPI
+T0585,2025-04-03,Interest,740,Income,Other Income,Credit Card
+T0802,2025-04-03,Groceries,4917,Expense,Groceries,UPI
+T1243,2025-04-03,Vegetables,2055,Expense,Groceries,Bank Transfer
+T1285,2025-04-03,House Rent,15451,Expense,Rent,Cash
+T1444,2025-04-03,Spotify,1104,Expense,Entertainment,Bank Transfer
+T0889,2025-04-04,Salary Credit,42836,Income,Salary,Credit Card
+T1319,2025-04-04,Groceries,2138,Expense,Groceries,UPI
+T1449,2025-04-04,Ola,1306,Expense,Transport,Cash
+T0748,2025-04-05,House Rent,12814,Expense,Rent,Bank Transfer
+T1107,2025-04-05,Myntra,2713,Expense,Shopping,Cash
+T0285,2025-04-06,Bus Pass,1527,Expense,Transport,UPI
+T0489,2025-04-06,Room Rent,16571,Expense,Rent,Debit Card
+T1076,2025-04-06,Coffee,1596,Expense,Food,Debit Card
+T0154,2025-04-07,Health Checkup,622,Expense,Healthcare,Debit Card
+T0885,2025-04-07,PG Rent,12467,Expense,Rent,Debit Card
+T1186,2025-04-07,Salary Credit,41490,Income,Salary,Bank Transfer
+T0675,2025-04-08,Monthly Salary,35414,Income,Salary,Credit Card
+T1034,2025-04-08,Medicine,2881,Expense,Healthcare,Debit Card
+T0126,2025-04-09,Room Rent,9033,Expense,Rent,Debit Card
+T0908,2025-04-09,Freelance Payment,13868,Income,Freelance,Debit Card
+T1125,2025-04-09,Interest,4507,Income,Other Income,Cash
+T1386,2025-04-09,Doctor Consultation,4358,Expense,Healthcare,Debit Card
+T1479,2025-04-09,Pizza,1494,Expense,Food,Bank Transfer
+T0084,2025-04-10,Vegetables,3573,Expense,Groceries,Debit Card
+T0492,2025-04-10,Room Rent,16699,Expense,Rent,Cash
+T1222,2025-04-10,Accessories,1074,Expense,Shopping,Bank Transfer
+T1477,2025-04-10,Amazon,5118,Expense,Shopping,Debit Card
+T0483,2025-04-11,OTT Subscription,2104,Expense,Entertainment,Bank Transfer
+T0858,2025-04-11,Interest,4374,Income,Other Income,UPI
+T0949,2025-04-11,House Rent,9970,Expense,Rent,UPI
+T1202,2025-04-11,Other Income,1215,Income,Other Income,Bank Transfer
+T0110,2025-04-12,Interest,1334,Income,Other Income,Credit Card
+T1047,2025-04-12,House Rent,18382,Expense,Rent,Cash
+T0462,2025-04-13,House Rent,17169,Expense,Rent,Bank Transfer
+T0554,2025-04-13,OTT Subscription,1093,Expense,Entertainment,Cash
+T0582,2025-04-13,House Rent,16334,Expense,Rent,Bank Transfer
+T0642,2025-04-13,Electricity Bill,4039,Expense,Bills,UPI
+T0674,2025-04-13,Lunch,1650,Expense,Food,Bank Transfer
+T1237,2025-04-13,College Fees,1787,Expense,Education,Debit Card
+T1288,2025-04-13,Flipkart,1532,Expense,Shopping,Credit Card
+T0235,2025-04-15,Mobile Recharge,2393,Expense,Bills,Credit Card
+T1345,2025-04-15,Accessories,1678,Expense,Shopping,Bank Transfer
+T0612,2025-04-16,Groceries,4724,Expense,Groceries,Credit Card
+T0758,2025-04-16,DMart,1559,Expense,Groceries,UPI
+T0012,2025-04-18,Bus Pass,750,Expense,Transport,Bank Transfer
+T0730,2025-04-18,OTT Subscription,1514,Expense,Entertainment,Debit Card
+T0769,2025-04-18,Books,7060,Expense,Education,Bank Transfer
+T0016,2025-04-19,Vegetables,1470,Expense,Groceries,Credit Card
+T0437,2025-04-19,Medicine,581,Expense,Healthcare,UPI
+T1370,2025-04-19,OTT Subscription,535,Expense,Entertainment,Cash
+T0309,2025-04-20,OTT Subscription,2111,Expense,Entertainment,Debit Card
+T0519,2025-04-20,Shoes,2152,Expense,Shopping,Bank Transfer
+T0525,2025-04-20,Clothes,5346,Expense,Shopping,Cash
+T1286,2025-04-20,Medicine,5425,Expense,Healthcare,Bank Transfer
+T1415,2025-04-20,Gift Received,4770,Income,Other Income,Credit Card
+T0127,2025-04-21,OTT Subscription,2248,Expense,Entertainment,Bank Transfer
+T0216,2025-04-21,Water Bill,3076,Expense,Bills,Cash
+T0280,2025-04-21,Room Rent,15975,Expense,Rent,Bank Transfer
+T0720,2025-04-21,Internet Bill,1182,Expense,Bills,Cash
+T1155,2025-04-21,Doctor Consultation,3373,Expense,Healthcare,Credit Card
+T0511,2025-04-22,Water Bill,2499,Expense,Bills,Credit Card
+T0526,2025-04-22,Monthly Salary,32035,Income,Salary,Bank Transfer
+T1113,2025-04-22,Petrol,1110,Expense,Transport,UPI
+T1167,2025-04-22,Freelance Work,12610,Income,Freelance,UPI
+T0086,2025-04-23,PG Rent,6822,Expense,Rent,Bank Transfer
+T0766,2025-04-23,Project Payment,6832,Income,Freelance,Debit Card
+T1159,2025-04-23,Accessories,6809,Expense,Shopping,Bank Transfer
+T0573,2025-04-24,Freelance Payment,13244,Income,Freelance,UPI
+T0826,2025-04-24,Dinner,920,Expense,Food,Bank Transfer
+T0396,2025-04-25,Pizza,1048,Expense,Food,Bank Transfer
+T0651,2025-04-25,OTT Subscription,1227,Expense,Entertainment,Cash
+T0794,2025-04-25,Course Fee,8276,Expense,Education,Cash
+T0082,2025-04-26,Amazon,678,Expense,Shopping,Debit Card
+T0264,2025-04-26,Amazon,2723,Expense,Shopping,UPI
+T0357,2025-04-26,Movie,949,Expense,Entertainment,Cash
+T0495,2025-04-26,Accessories,4046,Expense,Shopping,Bank Transfer
+T0970,2025-04-26,BigBasket,1019,Expense,Groceries,Cash
+T1485,2025-04-26,DMart,2347,Expense,Groceries,Debit Card
+T0547,2025-04-27,Swiggy,125,Expense,Food,Debit Card
+T0680,2025-04-27,Flipkart,6313,Expense,Shopping,UPI
+T1244,2025-04-27,College Fees,7933,Expense,Education,UPI
+T1405,2025-04-27,Freelance Payment,8706,Income,Freelance,Cash
+T0807,2025-04-28,Amazon,435,Expense,Shopping,Debit Card
+T0822,2025-04-28,Amazon,2056,Expense,Shopping,Bank Transfer
+T0980,2025-04-29,Electricity Bill,3243,Expense,Bills,UPI
+T0269,2025-04-30,Concert,894,Expense,Entertainment,Credit Card
+T0592,2025-04-30,Coffee,101,Expense,Food,Credit Card
+T0937,2025-04-30,Netflix,2436,Expense,Entertainment,Cash
+T0954,2025-04-30,Books,1705,Expense,Education,UPI
+T1018,2025-04-30,Electricity Bill,1268,Expense,Bills,UPI
+T1253,2025-04-30,Medicine,4967,Expense,Healthcare,Bank Transfer
+T0172,2025-05-01,Spotify,470,Expense,Entertainment,Cash
+T0377,2025-05-01,Movie,1336,Expense,Entertainment,Bank Transfer
+T0624,2025-05-01,Petrol,192,Expense,Transport,Bank Transfer
+T0902,2025-05-01,College Fees,3042,Expense,Education,Credit Card
+T0968,2025-05-01,PG Rent,19302,Expense,Rent,UPI
+T1291,2025-05-01,Ola,836,Expense,Transport,UPI
+T1309,2025-05-01,Clothes,5472,Expense,Shopping,Credit Card
+T0207,2025-05-02,Restaurant,643,Expense,Food,UPI
+T0500,2025-05-02,Stationery,7315,Expense,Education,Debit Card
+T0602,2025-05-02,Books,1753,Expense,Education,Credit Card
+T0854,2025-05-02,Course Fee,3313,Expense,Education,Cash
+T1004,2025-05-02,Health Checkup,3559,Expense,Healthcare,Cash
+T1489,2025-05-02,Medical Store,5322,Expense,Healthcare,Cash
+T1177,2025-05-03,Doctor Consultation,2046,Expense,Healthcare,Credit Card
+T0657,2025-05-04,Reliance Smart,1446,Expense,Groceries,UPI
+T0845,2025-05-04,Mobile Recharge,1961,Expense,Bills,Debit Card
+T0931,2025-05-04,Water Bill,4807,Expense,Bills,Credit Card
+T0203,2025-05-05,Electricity Bill,4840,Expense,Bills,Debit Card
+T0242,2025-05-05,Groceries,944,Expense,Groceries,Cash
+T0013,2025-05-06,Reliance Smart,4862,Expense,Groceries,Debit Card
+T1043,2025-05-06,Gaming,1487,Expense,Entertainment,Bank Transfer
+T1292,2025-05-06,Concert,2088,Expense,Entertainment,Bank Transfer
+T0049,2025-05-07,Zomato,958,Expense,Food,Bank Transfer
+T0456,2025-05-07,Doctor Consultation,3950,Expense,Healthcare,UPI
+T0966,2025-05-07,Movie,2106,Expense,Entertainment,Cash
+T1422,2025-05-07,Interest,3459,Income,Other Income,Cash
+T0087,2025-05-08,Petrol,596,Expense,Transport,Cash
+T0307,2025-05-08,Restaurant,1122,Expense,Food,Bank Transfer
+T0905,2025-05-08,Train Ticket,1436,Expense,Transport,UPI
+T0740,2025-05-09,Doctor Consultation,5391,Expense,Healthcare,Credit Card
+T0909,2025-05-09,Health Checkup,4779,Expense,Healthcare,Credit Card
+T1104,2025-05-09,Zomato,216,Expense,Food,Bank Transfer
+T0821,2025-05-10,Online Course,2562,Expense,Education,UPI
+T1366,2025-05-10,Metro,2112,Expense,Transport,UPI
+T0390,2025-05-11,Gas Bill,898,Expense,Bills,UPI
+T0862,2025-05-11,Petrol,1420,Expense,Transport,Credit Card
+T1302,2025-05-11,Coffee,1192,Expense,Food,Credit Card
+T0246,2025-05-12,Accessories,6518,Expense,Shopping,UPI
+T0422,2025-05-12,Health Checkup,3975,Expense,Healthcare,Debit Card
+T0604,2025-05-12,Swiggy,890,Expense,Food,Cash
+T0693,2025-05-12,Medicine,2363,Expense,Healthcare,Cash
+T1109,2025-05-12,Auto Rickshaw,305,Expense,Transport,Cash
+T1498,2025-05-12,Health Checkup,1723,Expense,Healthcare,Debit Card
+T0761,2025-05-13,Health Checkup,3747,Expense,Healthcare,Credit Card
+T1418,2025-05-13,College Fees,1082,Expense,Education,UPI
+T1452,2025-05-13,Uber,879,Expense,Transport,Debit Card
+T0071,2025-05-14,Netflix,544,Expense,Entertainment,Bank Transfer
+T0608,2025-05-14,Auto Rickshaw,746,Expense,Transport,Cash
+T0818,2025-05-14,Groceries,3295,Expense,Groceries,Bank Transfer
+T0835,2025-05-14,House Rent,15152,Expense,Rent,UPI
+T1189,2025-05-14,Course Fee,1075,Expense,Education,Debit Card
+T0620,2025-05-15,Gaming,352,Expense,Entertainment,Debit Card
+T0792,2025-05-15,Clothes,5654,Expense,Shopping,Cash
+T1267,2025-05-15,Groceries,3189,Expense,Groceries,Credit Card
+T1321,2025-05-15,Amazon,3585,Expense,Shopping,Bank Transfer
+T0051,2025-05-16,Concert,1395,Expense,Entertainment,UPI
+T0138,2025-05-16,Flipkart,1723,Expense,Shopping,Bank Transfer
+T0568,2025-05-16,Ola,1296,Expense,Transport,Bank Transfer
+T0155,2025-05-17,Concert,2085,Expense,Entertainment,UPI
+T0332,2025-05-17,Amazon,714,Expense,Shopping,Credit Card
+T0950,2025-05-17,Stationery,1767,Expense,Education,UPI
+T1116,2025-05-17,Online Course,9714,Expense,Education,UPI
+T1274,2025-05-17,Project Payment,2364,Income,Freelance,Credit Card
+T1290,2025-05-17,Myntra,5926,Expense,Shopping,Bank Transfer
+T1396,2025-05-17,Room Rent,16968,Expense,Rent,UPI
+T0447,2025-05-18,Electronics,3491,Expense,Shopping,Credit Card
+T0543,2025-05-18,Metro,170,Expense,Transport,Credit Card
+T0649,2025-05-18,House Rent,18784,Expense,Rent,UPI
+T0892,2025-05-18,Project Payment,2134,Income,Freelance,Debit Card
+T0362,2025-05-19,Spotify,547,Expense,Entertainment,Bank Transfer
+T0449,2025-05-19,Monthly Salary,42122,Income,Salary,Cash
+T0961,2025-05-19,Cashback,1045,Income,Other Income,Cash
+T1099,2025-05-19,Auto Rickshaw,2442,Expense,Transport,Cash
+T0057,2025-05-20,Internet Bill,1967,Expense,Bills,Credit Card
+T0145,2025-05-20,Health Checkup,858,Expense,Healthcare,Bank Transfer
+T0372,2025-05-20,Auto Rickshaw,715,Expense,Transport,Cash
+T0565,2025-05-20,Mobile Recharge,1192,Expense,Bills,Debit Card
+T1254,2025-05-20,Reliance Smart,4197,Expense,Groceries,Bank Transfer
+T1346,2025-05-20,Gas Bill,333,Expense,Bills,Bank Transfer
+T0092,2025-05-21,Spotify,1212,Expense,Entertainment,Credit Card
+T0429,2025-05-21,Netflix,2157,Expense,Entertainment,Cash
+T0516,2025-05-21,Freelance Payment,3350,Income,Freelance,Credit Card
+T0059,2025-05-22,Freelance Work,12438,Income,Freelance,Credit Card
+T0455,2025-05-22,Medical Store,3158,Expense,Healthcare,Credit Card
+T0528,2025-05-22,Gas Bill,2634,Expense,Bills,UPI
+T0656,2025-05-22,Spotify,714,Expense,Entertainment,Bank Transfer
+T0819,2025-05-22,BigBasket,3685,Expense,Groceries,Bank Transfer
+T1040,2025-05-22,Medical Store,2433,Expense,Healthcare,Debit Card
+T0117,2025-05-23,Water Bill,4968,Expense,Bills,Bank Transfer
+T0709,2025-05-23,Salary Credit,41214,Income,Salary,Debit Card
+T1162,2025-05-23,Project Payment,6041,Income,Freelance,Debit Card
+T1238,2025-05-23,Course Fee,2930,Expense,Education,Bank Transfer
+T0461,2025-05-24,Reliance Smart,1232,Expense,Groceries,Bank Transfer
+T0579,2025-05-24,Amazon,5330,Expense,Shopping,Bank Transfer
+T0849,2025-05-24,Amazon,4606,Expense,Shopping,Cash
+T1088,2025-05-24,Netflix,556,Expense,Entertainment,Bank Transfer
+T0128,2025-05-25,Internet Bill,2163,Expense,Bills,Credit Card
+T1338,2025-05-25,Gaming,1180,Expense,Entertainment,Bank Transfer
+T1463,2025-05-25,Cashback,2962,Income,Other Income,UPI
+T0054,2025-05-26,Room Rent,10956,Expense,Rent,Bank Transfer
+T0081,2025-05-26,College Fees,4148,Expense,Education,Credit Card
+T0321,2025-05-26,Spotify,2356,Expense,Entertainment,Credit Card
+T0512,2025-05-26,Shoes,7283,Expense,Shopping,Cash
+T0865,2025-05-26,PG Rent,18693,Expense,Rent,Cash
+T0876,2025-05-26,Flipkart,4615,Expense,Shopping,Debit Card
+T0933,2025-05-26,House Rent,10945,Expense,Rent,UPI
+T0079,2025-05-27,Online Course,7538,Expense,Education,Cash
+T0144,2025-05-28,Medicine,5932,Expense,Healthcare,Cash
+T0340,2025-05-28,Other Income,2791,Income,Other Income,Bank Transfer
+T1279,2025-05-28,Gaming,1746,Expense,Entertainment,Debit Card
+T0240,2025-05-29,Salary Credit,33631,Income,Salary,Bank Transfer
+T0327,2025-05-29,Concert,1103,Expense,Entertainment,Cash
+T0503,2025-05-29,Room Rent,19355,Expense,Rent,UPI
+T1198,2025-05-29,Accessories,4930,Expense,Shopping,Cash
+T1212,2025-05-29,Pizza,1298,Expense,Food,Credit Card
+T0284,2025-05-30,Books,9649,Expense,Education,Cash
+T0460,2025-05-30,Doctor Consultation,2869,Expense,Healthcare,Cash
+T0991,2025-05-30,Movie,1989,Expense,Entertainment,Debit Card
+T0023,2025-05-31,Medical Store,2357,Expense,Healthcare,Bank Transfer
+T0123,2025-05-31,Internet Bill,3323,Expense,Bills,Cash
+T0665,2025-05-31,Petrol,269,Expense,Transport,Bank Transfer
+T0727,2025-05-31,Flipkart,3681,Expense,Shopping,Bank Transfer
+T1260,2025-05-31,Medicine,4643,Expense,Healthcare,Credit Card
+T1388,2025-05-31,Vegetables,3251,Expense,Groceries,Cash
+T0189,2025-06-01,College Fees,7973,Expense,Education,UPI
+T0374,2025-06-01,Mobile Recharge,3621,Expense,Bills,Cash
+T1364,2025-06-01,House Rent,6738,Expense,Rent,Bank Transfer
+T1410,2025-06-01,PG Rent,17821,Expense,Rent,Credit Card
+T0328,2025-06-02,Restaurant,1000,Expense,Food,Cash
+T0767,2025-06-02,College Fees,9368,Expense,Education,Bank Transfer
+T1356,2025-06-02,Reliance Smart,1375,Expense,Groceries,Credit Card
+T1451,2025-06-02,Books,7063,Expense,Education,Credit Card
+T0076,2025-06-03,Reliance Smart,3596,Expense,Groceries,Credit Card
+T0433,2025-06-03,Train Ticket,179,Expense,Transport,UPI
+T0476,2025-06-03,Cashback,685,Income,Other Income,Credit Card
+T0523,2025-06-03,Monthly Salary,30241,Income,Salary,Bank Transfer
+T0934,2025-06-03,Internet Bill,477,Expense,Bills,Credit Card
+T1022,2025-06-03,College Fees,2165,Expense,Education,Credit Card
+T1065,2025-06-03,Concert,1510,Expense,Entertainment,UPI
+T1283,2025-06-03,PG Rent,9278,Expense,Rent,Cash
+T1421,2025-06-03,Electronics,3393,Expense,Shopping,Bank Transfer
+T0454,2025-06-04,Amazon,1669,Expense,Shopping,Cash
+T0653,2025-06-04,Groceries,1138,Expense,Groceries,UPI
+T1492,2025-06-04,DMart,1134,Expense,Groceries,UPI
+T0320,2025-06-05,Books,5969,Expense,Education,Bank Transfer
+T0487,2025-06-06,Project Payment,4316,Income,Freelance,Bank Transfer
+T1272,2025-06-06,Monthly Salary,38686,Income,Salary,UPI
+T0027,2025-06-07,Gas Bill,945,Expense,Bills,UPI
+T0063,2025-06-07,Lunch,530,Expense,Food,Debit Card
+T0417,2025-06-07,PG Rent,13635,Expense,Rent,UPI
+T0558,2025-06-07,Interest,3939,Income,Other Income,Cash
+T0881,2025-06-07,Spotify,1343,Expense,Entertainment,UPI
+T1206,2025-06-07,House Rent,9533,Expense,Rent,Cash
+T0243,2025-06-08,Internet Bill,1677,Expense,Bills,UPI
+T0880,2025-06-08,Doctor Consultation,933,Expense,Healthcare,Cash
+T1049,2025-06-08,Health Checkup,2098,Expense,Healthcare,Debit Card
+T1307,2025-06-08,College Fees,9063,Expense,Education,Debit Card
+T0109,2025-06-09,Salary Credit,40298,Income,Salary,Cash
+T0553,2025-06-09,PG Rent,6130,Expense,Rent,Credit Card
+T0676,2025-06-09,Project Payment,11644,Income,Freelance,Credit Card
+T0894,2025-06-09,Medicine,3998,Expense,Healthcare,UPI
+T0046,2025-06-10,Other Income,4619,Income,Other Income,Bank Transfer
+T0352,2025-06-10,BigBasket,3661,Expense,Groceries,Bank Transfer
+T0729,2025-06-10,Room Rent,9560,Expense,Rent,Debit Card
+T0777,2025-06-10,Water Bill,2566,Expense,Bills,Credit Card
+T1296,2025-06-10,Petrol,1538,Expense,Transport,UPI
+T1339,2025-06-10,Myntra,6336,Expense,Shopping,Cash
+T0015,2025-06-11,Ola,2373,Expense,Transport,Credit Card
+T0292,2025-06-11,PG Rent,19359,Expense,Rent,Bank Transfer
+T0564,2025-06-11,Reliance Smart,2905,Expense,Groceries,Cash
+T0711,2025-06-11,Project Payment,12704,Income,Freelance,UPI
+T1408,2025-06-11,Clothes,803,Expense,Shopping,Cash
+T0317,2025-06-12,Health Checkup,5771,Expense,Healthcare,Bank Transfer
+T0358,2025-06-12,Room Rent,10480,Expense,Rent,Credit Card
+T0532,2025-06-12,Other Income,3493,Income,Other Income,Bank Transfer
+T0093,2025-06-13,Ola,667,Expense,Transport,Debit Card
+T0330,2025-06-13,Online Course,2442,Expense,Education,Credit Card
+T1317,2025-06-13,Myntra,1721,Expense,Shopping,Bank Transfer
+T0298,2025-06-14,Project Payment,6843,Income,Freelance,Credit Card
+T0416,2025-06-14,Vegetables,4671,Expense,Groceries,Credit Card
+T0638,2025-06-14,Groceries,1031,Expense,Groceries,Debit Card
+T1268,2025-06-14,Cashback,1550,Income,Other Income,Credit Card
+T0594,2025-06-15,Monthly Salary,31634,Income,Salary,Bank Transfer
+T0900,2025-06-15,Zomato,618,Expense,Food,Cash
+T0917,2025-06-15,College Fees,1877,Expense,Education,Bank Transfer
+T0996,2025-06-15,Electronics,6306,Expense,Shopping,UPI
+T1011,2025-06-15,DMart,3800,Expense,Groceries,Bank Transfer
+T1481,2025-06-15,Reliance Smart,1297,Expense,Groceries,Bank Transfer
+T0930,2025-06-16,Vegetables,2949,Expense,Groceries,Bank Transfer
+T0103,2025-06-17,Course Fee,6511,Expense,Education,Credit Card
+T0187,2025-06-17,Flipkart,1382,Expense,Shopping,Bank Transfer
+T0194,2025-06-17,Electricity Bill,4103,Expense,Bills,Credit Card
+T0236,2025-06-17,Project Payment,9055,Income,Freelance,Debit Card
+T0444,2025-06-17,Freelance Payment,10038,Income,Freelance,Debit Card
+T1163,2025-06-17,Gas Bill,1520,Expense,Bills,Bank Transfer
+T1318,2025-06-17,Electricity Bill,3695,Expense,Bills,Credit Card
+T0421,2025-06-18,Water Bill,4810,Expense,Bills,Credit Card
+T1013,2025-06-18,House Rent,17400,Expense,Rent,Debit Card
+T1300,2025-06-18,BigBasket,3764,Expense,Groceries,Debit Card
+T1348,2025-06-18,Cashback,3729,Income,Other Income,Credit Card
+T0095,2025-06-19,DMart,1994,Expense,Groceries,Cash
+T0348,2025-06-19,Groceries,2820,Expense,Groceries,UPI
+T0635,2025-06-19,Coffee,650,Expense,Food,Credit Card
+T0750,2025-06-19,Gas Bill,4645,Expense,Bills,Cash
+T0798,2025-06-19,Health Checkup,4124,Expense,Healthcare,Debit Card
+T0895,2025-06-19,Monthly Salary,36732,Income,Salary,Cash
+T0066,2025-06-20,BigBasket,2485,Expense,Groceries,Debit Card
+T0289,2025-06-20,Project Payment,7546,Income,Freelance,Debit Card
+T0344,2025-06-20,PG Rent,8440,Expense,Rent,Bank Transfer
+T1331,2025-06-20,Medicine,5167,Expense,Healthcare,Bank Transfer
+T1157,2025-06-21,Cashback,2798,Income,Other Income,Debit Card
+T0596,2025-06-22,Flipkart,6299,Expense,Shopping,Cash
+T1101,2025-06-22,Myntra,4786,Expense,Shopping,UPI
+T1134,2025-06-22,Reliance Smart,1289,Expense,Groceries,Bank Transfer
+T1394,2025-06-22,Electricity Bill,4903,Expense,Bills,Debit Card
+T0257,2025-06-23,Lunch,234,Expense,Food,Credit Card
+T0342,2025-06-23,Books,3561,Expense,Education,Bank Transfer
+T1024,2025-06-23,Health Checkup,491,Expense,Healthcare,Debit Card
+T1199,2025-06-23,Medical Store,1342,Expense,Healthcare,Bank Transfer
+T1335,2025-06-23,Amazon,2899,Expense,Shopping,Bank Transfer
+T1440,2025-06-23,Medicine,5491,Expense,Healthcare,UPI
+T0006,2025-06-24,Internet Bill,1137,Expense,Bills,UPI
+T0132,2025-06-24,Pizza,1078,Expense,Food,UPI
+T0229,2025-06-24,OTT Subscription,1428,Expense,Entertainment,Bank Transfer
+T1023,2025-06-24,Restaurant,497,Expense,Food,Credit Card
+T1403,2025-06-24,Amazon,2479,Expense,Shopping,Credit Card
+T1467,2025-06-24,College Fees,2490,Expense,Education,UPI
+T0513,2025-06-25,Swiggy,303,Expense,Food,Cash
+T1058,2025-06-25,Mobile Recharge,938,Expense,Bills,Bank Transfer
+T1187,2025-06-25,Online Course,8986,Expense,Education,Bank Transfer
+T0233,2025-06-26,OTT Subscription,2093,Expense,Entertainment,Bank Transfer
+T0318,2025-06-26,Interest,1557,Income,Other Income,Cash
+T0584,2025-06-26,PG Rent,12363,Expense,Rent,Credit Card
+T0952,2025-06-26,Pizza,446,Expense,Food,Credit Card
+T1411,2025-06-26,Project Payment,12000,Income,Freelance,Debit Card
+T0112,2025-06-27,College Fees,8589,Expense,Education,Credit Card
+T0557,2025-06-27,Lunch,102,Expense,Food,Cash
+T0474,2025-06-28,Doctor Consultation,4468,Expense,Healthcare,Cash
+T0475,2025-06-28,Health Checkup,2812,Expense,Healthcare,UPI
+T0911,2025-06-28,Medicine,5104,Expense,Healthcare,Bank Transfer
+T1269,2025-06-28,Lunch,879,Expense,Food,UPI
+T0245,2025-06-29,Flipkart,1142,Expense,Shopping,Debit Card
+T0502,2025-06-29,House Rent,11302,Expense,Rent,Credit Card
+T1042,2025-06-29,Spotify,1260,Expense,Entertainment,Bank Transfer
+T0097,2025-06-30,Vegetables,4709,Expense,Groceries,Bank Transfer
+T0423,2025-06-30,PG Rent,9015,Expense,Rent,Bank Transfer
+T0841,2025-06-30,Pizza,608,Expense,Food,Credit Card
+T1178,2025-06-30,Room Rent,12929,Expense,Rent,Credit Card
+T1190,2025-06-30,Shoes,7870,Expense,Shopping,Debit Card
+T0451,2025-07-01,Online Course,502,Expense,Education,Credit Card
+T0288,2025-07-02,Books,1998,Expense,Education,Bank Transfer
+T0445,2025-07-02,Vegetables,1821,Expense,Groceries,Bank Transfer
+T0570,2025-07-02,Pizza,632,Expense,Food,Debit Card
+T0598,2025-07-02,Clothes,2813,Expense,Shopping,Credit Card
+T0936,2025-07-02,Movie,2484,Expense,Entertainment,Debit Card
+T1201,2025-07-02,Monthly Salary,35279,Income,Salary,Credit Card
+T1343,2025-07-02,PG Rent,13499,Expense,Rent,Cash
+T0689,2025-07-03,Spotify,261,Expense,Entertainment,Bank Transfer
+T0737,2025-07-03,Bus Pass,2351,Expense,Transport,Debit Card
+T0747,2025-07-03,Gift Received,4804,Income,Other Income,Debit Card
+T0779,2025-07-03,Medical Store,1639,Expense,Healthcare,Bank Transfer
+T0788,2025-07-03,Freelance Work,3029,Income,Freelance,Credit Card
+T1068,2025-07-03,Freelance Work,5854,Income,Freelance,Cash
+T0448,2025-07-04,Salary Credit,42573,Income,Salary,Credit Card
+T0643,2025-07-04,Movie,2001,Expense,Entertainment,Bank Transfer
+T0830,2025-07-04,Restaurant,277,Expense,Food,Credit Card
+T0863,2025-07-04,PG Rent,11638,Expense,Rent,UPI
+T0932,2025-07-04,Health Checkup,201,Expense,Healthcare,UPI
+T0263,2025-07-05,Internet Bill,4283,Expense,Bills,Debit Card
+T0817,2025-07-05,Project Payment,11590,Income,Freelance,Credit Card
+T0853,2025-07-05,Spotify,2346,Expense,Entertainment,Credit Card
+T1145,2025-07-05,Room Rent,9592,Expense,Rent,Cash
+T0075,2025-07-06,Stationery,5443,Expense,Education,UPI
+T0302,2025-07-06,Amazon,1469,Expense,Shopping,Bank Transfer
+T0595,2025-07-06,Online Course,9901,Expense,Education,UPI
+T1252,2025-07-06,Books,6923,Expense,Education,UPI
+T0188,2025-07-07,Spotify,1152,Expense,Entertainment,Cash
+T0339,2025-07-07,Monthly Salary,39879,Income,Salary,Bank Transfer
+T0784,2025-07-07,Spotify,2003,Expense,Entertainment,Bank Transfer
+T0793,2025-07-07,Bus Pass,1080,Expense,Transport,Cash
+T1242,2025-07-07,Clothes,5817,Expense,Shopping,UPI
+T0251,2025-07-08,Train Ticket,419,Expense,Transport,Bank Transfer
+T0555,2025-07-08,Doctor Consultation,4677,Expense,Healthcare,Debit Card
+T0923,2025-07-08,Pizza,1183,Expense,Food,UPI
+T1181,2025-07-08,Ola,1925,Expense,Transport,UPI
+T1305,2025-07-08,Swiggy,1614,Expense,Food,UPI
+T0062,2025-07-09,Clothes,1344,Expense,Shopping,UPI
+T0197,2025-07-09,PG Rent,15622,Expense,Rent,Debit Card
+T0411,2025-07-09,Interest,922,Income,Other Income,Credit Card
+T0619,2025-07-09,Pizza,1000,Expense,Food,Cash
+T0789,2025-07-09,Gas Bill,3259,Expense,Bills,Cash
+T0812,2025-07-09,PG Rent,9759,Expense,Rent,Cash
+T1205,2025-07-09,Pizza,806,Expense,Food,Credit Card
+T1328,2025-07-09,Medical Store,284,Expense,Healthcare,Cash
+T0220,2025-07-10,House Rent,15608,Expense,Rent,Bank Transfer
+T0551,2025-07-10,Cashback,1969,Income,Other Income,Debit Card
+T0645,2025-07-10,Doctor Consultation,4087,Expense,Healthcare,Bank Transfer
+T0427,2025-07-11,Other Income,4496,Income,Other Income,UPI
+T0432,2025-07-11,Doctor Consultation,5911,Expense,Healthcare,Debit Card
+T1218,2025-07-11,Pizza,433,Expense,Food,Bank Transfer
+T0652,2025-07-12,Medicine,1987,Expense,Healthcare,Cash
+T1210,2025-07-12,Project Payment,6478,Income,Freelance,Cash
+T1471,2025-07-12,Online Course,3203,Expense,Education,UPI
+T0394,2025-07-13,House Rent,16707,Expense,Rent,Credit Card
+T0412,2025-07-13,Zomato,485,Expense,Food,Bank Transfer
+T0466,2025-07-13,Other Income,3783,Income,Other Income,Bank Transfer
+T1275,2025-07-13,Stationery,1901,Expense,Education,Cash
+T1437,2025-07-13,Accessories,1434,Expense,Shopping,Bank Transfer
+T0007,2025-07-14,Project Payment,6333,Income,Freelance,UPI
+T0011,2025-07-14,Books,6365,Expense,Education,Credit Card
+T0171,2025-07-14,Medical Store,5258,Expense,Healthcare,UPI
+T0987,2025-07-14,Groceries,4985,Expense,Groceries,Bank Transfer
+T0739,2025-07-15,Stationery,1181,Expense,Education,UPI
+T0813,2025-07-15,Petrol,598,Expense,Transport,Credit Card
+T0840,2025-07-15,Mobile Recharge,2886,Expense,Bills,Cash
+T0897,2025-07-15,Metro,1069,Expense,Transport,Cash
+T1097,2025-07-15,Room Rent,6672,Expense,Rent,UPI
+T0094,2025-07-16,Electricity Bill,3698,Expense,Bills,Cash
+T0165,2025-07-16,DMart,2906,Expense,Groceries,Cash
+T0333,2025-07-16,BigBasket,1608,Expense,Groceries,Credit Card
+T0527,2025-07-16,Reliance Smart,1445,Expense,Groceries,Debit Card
+T0633,2025-07-16,Medical Store,1610,Expense,Healthcare,Credit Card
+T1045,2025-07-16,Freelance Payment,4932,Income,Freelance,Bank Transfer
+T1057,2025-07-16,Salary Credit,42265,Income,Salary,Bank Transfer
+T0073,2025-07-17,Internet Bill,663,Expense,Bills,Cash
+T1171,2025-07-17,Stationery,835,Expense,Education,Credit Card
+T0308,2025-07-18,Auto Rickshaw,1116,Expense,Transport,Cash
+T0410,2025-07-18,Internet Bill,947,Expense,Bills,Cash
+T0488,2025-07-18,Shoes,3443,Expense,Shopping,Cash
+T0659,2025-07-18,Internet Bill,2121,Expense,Bills,Bank Transfer
+T1110,2025-07-18,Pizza,1764,Expense,Food,Credit Card
+T0096,2025-07-19,Dinner,1076,Expense,Food,UPI
+T0472,2025-07-20,House Rent,11651,Expense,Rent,UPI
+T0530,2025-07-20,Cafe,1113,Expense,Food,Cash
+T0101,2025-07-21,Zomato,1416,Expense,Food,Cash
+T0336,2025-07-21,Mobile Recharge,3190,Expense,Bills,UPI
+T1203,2025-07-21,Stationery,8681,Expense,Education,UPI
+T0480,2025-07-22,Interest,4182,Income,Other Income,Bank Transfer
+T1250,2025-07-22,Uber,637,Expense,Transport,Cash
+T1464,2025-07-22,Electronics,4858,Expense,Shopping,Credit Card
+T0201,2025-07-23,Metro,1912,Expense,Transport,UPI
+T0629,2025-07-23,Gaming,1976,Expense,Entertainment,UPI
+T0644,2025-07-23,Train Ticket,175,Expense,Transport,Debit Card
+T0874,2025-07-23,Uber,1125,Expense,Transport,Bank Transfer
+T1297,2025-07-23,Flipkart,1216,Expense,Shopping,Bank Transfer
+T0069,2025-07-24,Metro,1193,Expense,Transport,Credit Card
+T0217,2025-07-24,Auto Rickshaw,1798,Expense,Transport,Credit Card
+T0295,2025-07-24,Reliance Smart,1830,Expense,Groceries,Cash
+T0831,2025-07-24,Vegetables,1940,Expense,Groceries,Bank Transfer
+T0947,2025-07-24,Groceries,3859,Expense,Groceries,Debit Card
+T1382,2025-07-24,Doctor Consultation,697,Expense,Healthcare,Bank Transfer
+T0401,2025-07-25,House Rent,18359,Expense,Rent,UPI
+T0823,2025-07-25,Room Rent,17420,Expense,Rent,UPI
+T1251,2025-07-25,Train Ticket,741,Expense,Transport,UPI
+T1284,2025-07-25,PG Rent,17002,Expense,Rent,Bank Transfer
+T0153,2025-07-26,Coffee,946,Expense,Food,UPI
+T0508,2025-07-26,OTT Subscription,1611,Expense,Entertainment,Cash
+T0634,2025-07-26,Other Income,817,Income,Other Income,Cash
+T0641,2025-07-26,Cashback,1923,Income,Other Income,Debit Card
+T0434,2025-07-27,PG Rent,6919,Expense,Rent,UPI
+T0479,2025-07-27,Electronics,5684,Expense,Shopping,Cash
+T1196,2025-07-27,Clothes,7900,Expense,Shopping,Credit Card
+T1255,2025-07-27,PG Rent,8414,Expense,Rent,Cash
+T0150,2025-07-29,Metro,708,Expense,Transport,Credit Card
+T0493,2025-07-29,Vegetables,4303,Expense,Groceries,Debit Card
+T0669,2025-07-29,Doctor Consultation,2791,Expense,Healthcare,Debit Card
+T0815,2025-07-29,Swiggy,1283,Expense,Food,Bank Transfer
+T0151,2025-07-30,OTT Subscription,1740,Expense,Entertainment,Bank Transfer
+T0268,2025-07-30,Water Bill,2634,Expense,Bills,Cash
+T0864,2025-07-30,Interest,4910,Income,Other Income,Debit Card
+T1494,2025-07-30,Coffee,886,Expense,Food,Cash
+T0419,2025-07-31,Monthly Salary,28531,Income,Salary,Credit Card
+T0452,2025-07-31,Train Ticket,2341,Expense,Transport,Debit Card
+T0622,2025-07-31,Gas Bill,799,Expense,Bills,Cash
+T0871,2025-07-31,Restaurant,1590,Expense,Food,Debit Card
+T0198,2025-08-01,Health Checkup,2491,Expense,Healthcare,UPI
+T0276,2025-08-01,Gift Received,2431,Income,Other Income,Cash
+T0927,2025-08-01,Online Course,7297,Expense,Education,UPI
+T1020,2025-08-01,Course Fee,9481,Expense,Education,Debit Card
+T1207,2025-08-01,Spotify,1836,Expense,Entertainment,Cash
+T1391,2025-08-01,Medicine,2122,Expense,Healthcare,Debit Card
+T1404,2025-08-01,Mobile Recharge,4638,Expense,Bills,Cash
+T1447,2025-08-01,Gift Received,3629,Income,Other Income,Credit Card
+T0326,2025-08-02,Coffee,1384,Expense,Food,Bank Transfer
+T0368,2025-08-02,Amazon,7150,Expense,Shopping,Cash
+T0550,2025-08-02,Course Fee,1576,Expense,Education,Bank Transfer
+T0684,2025-08-02,Bus Pass,1085,Expense,Transport,Cash
+T0941,2025-08-02,Metro,978,Expense,Transport,Bank Transfer
+T1215,2025-08-02,Electricity Bill,1277,Expense,Bills,Credit Card
+T1436,2025-08-02,Gaming,1952,Expense,Entertainment,Credit Card
+T0605,2025-08-03,Vegetables,3402,Expense,Groceries,Credit Card
+T0726,2025-08-03,Internet Bill,3559,Expense,Bills,Credit Card
+T1001,2025-08-03,Medicine,5331,Expense,Healthcare,Debit Card
+T0104,2025-08-04,Petrol,129,Expense,Transport,Bank Transfer
+T0664,2025-08-04,Course Fee,4569,Expense,Education,Bank Transfer
+T0699,2025-08-04,Amazon,1385,Expense,Shopping,UPI
+T0040,2025-08-05,Doctor Consultation,817,Expense,Healthcare,Cash
+T0044,2025-08-05,Room Rent,17770,Expense,Rent,Cash
+T0281,2025-08-05,Freelance Work,6934,Income,Freelance,UPI
+T0391,2025-08-05,Bus Pass,296,Expense,Transport,UPI
+T0521,2025-08-05,Medical Store,2075,Expense,Healthcare,Cash
+T0992,2025-08-05,Restaurant,1049,Expense,Food,Cash
+T1359,2025-08-05,Freelance Payment,12057,Income,Freelance,Debit Card
+T1417,2025-08-05,Train Ticket,295,Expense,Transport,Credit Card
+T1459,2025-08-05,PG Rent,6684,Expense,Rent,UPI
+T0297,2025-08-06,Interest,4968,Income,Other Income,Credit Card
+T0397,2025-08-06,Mobile Recharge,4073,Expense,Bills,Credit Card
+T0855,2025-08-06,Course Fee,6863,Expense,Education,Credit Card
+T1233,2025-08-06,Uber,127,Expense,Transport,Cash
+T1172,2025-08-07,Room Rent,19016,Expense,Rent,Debit Card
+T1282,2025-08-07,Train Ticket,1286,Expense,Transport,Bank Transfer
+T0018,2025-08-08,Reliance Smart,2096,Expense,Groceries,Debit Card
+T0481,2025-08-08,Mobile Recharge,2580,Expense,Bills,UPI
+T0515,2025-08-08,Electronics,2772,Expense,Shopping,Debit Card
+T0544,2025-08-08,Auto Rickshaw,2411,Expense,Transport,UPI
+T0673,2025-08-08,DMart,609,Expense,Groceries,Bank Transfer
+T1270,2025-08-08,Online Course,6055,Expense,Education,UPI
+T1322,2025-08-08,Amazon,3314,Expense,Shopping,Debit Card
+T1495,2025-08-08,Auto Rickshaw,156,Expense,Transport,Cash
+T0175,2025-08-09,Other Income,1975,Income,Other Income,Debit Card
+T0884,2025-08-09,Electricity Bill,4790,Expense,Bills,Credit Card
+T1234,2025-08-09,Monthly Salary,44825,Income,Salary,Bank Transfer
+T1264,2025-08-09,Other Income,4493,Income,Other Income,UPI
+T0577,2025-08-10,Vegetables,541,Expense,Groceries,Cash
+T1336,2025-08-10,Salary Credit,29447,Income,Salary,Debit Card
+T1465,2025-08-10,PG Rent,17175,Expense,Rent,Credit Card
+T0072,2025-08-11,Online Course,8679,Expense,Education,UPI
+T0563,2025-08-11,Flipkart,2689,Expense,Shopping,Credit Card
+T1070,2025-08-11,Clothes,1439,Expense,Shopping,Debit Card
+T1149,2025-08-11,Medical Store,1055,Expense,Healthcare,UPI
+T1289,2025-08-11,Train Ticket,883,Expense,Transport,Cash
+T1360,2025-08-11,Uber,2152,Expense,Transport,Credit Card
+T0149,2025-08-12,Medical Store,4050,Expense,Healthcare,Credit Card
+T1293,2025-08-12,Cafe,426,Expense,Food,Credit Card
+T1500,2025-08-12,Course Fee,9862,Expense,Education,Bank Transfer
+T0031,2025-08-13,Medical Store,2230,Expense,Healthcare,Debit Card
+T0765,2025-08-13,Coffee,420,Expense,Food,Bank Transfer
+T0828,2025-08-13,Gift Received,2095,Income,Other Income,UPI
+T1402,2025-08-13,Cafe,1757,Expense,Food,Cash
+T0458,2025-08-14,Myntra,2926,Expense,Shopping,Bank Transfer
+T1193,2025-08-14,Flipkart,4907,Expense,Shopping,UPI
+T1427,2025-08-14,Health Checkup,1534,Expense,Healthcare,Debit Card
+T0136,2025-08-15,Reliance Smart,4958,Expense,Groceries,Bank Transfer
+T0361,2025-08-15,Doctor Consultation,1855,Expense,Healthcare,Bank Transfer
+T0639,2025-08-15,Vegetables,4531,Expense,Groceries,Credit Card
+T0898,2025-08-15,Cafe,1043,Expense,Food,UPI
+T1308,2025-08-15,Reliance Smart,2764,Expense,Groceries,UPI
+T0870,2025-08-16,Stationery,8835,Expense,Education,Cash
+T1044,2025-08-16,Salary Credit,29653,Income,Salary,UPI
+T1188,2025-08-16,Accessories,2810,Expense,Shopping,Debit Card
+T1445,2025-08-16,Gift Received,3791,Income,Other Income,Bank Transfer
+T0090,2025-08-17,Health Checkup,2323,Expense,Healthcare,Debit Card
+T0299,2025-08-17,BigBasket,3936,Expense,Groceries,Credit Card
+T0300,2025-08-17,Project Payment,9126,Income,Freelance,Credit Card
+T0384,2025-08-17,College Fees,9543,Expense,Education,UPI
+T0400,2025-08-17,Cafe,1616,Expense,Food,UPI
+T0603,2025-08-17,Monthly Salary,30221,Income,Salary,Credit Card
+T0752,2025-08-17,Electricity Bill,2929,Expense,Bills,Cash
+T1358,2025-08-17,Medicine,4812,Expense,Healthcare,Bank Transfer
+T0248,2025-08-18,Course Fee,2773,Expense,Education,Cash
+T1419,2025-08-18,Coffee,794,Expense,Food,Debit Card
+T0491,2025-08-19,College Fees,8239,Expense,Education,Debit Card
+T0775,2025-08-19,OTT Subscription,2492,Expense,Entertainment,Debit Card
+T0856,2025-08-19,Shoes,5919,Expense,Shopping,Debit Card
+T1262,2025-08-19,Vegetables,4065,Expense,Groceries,UPI
+T1379,2025-08-19,Internet Bill,4964,Expense,Bills,Cash
+T0192,2025-08-21,Gaming,1660,Expense,Entertainment,Credit Card
+T0215,2025-08-21,DMart,1237,Expense,Groceries,Bank Transfer
+T0388,2025-08-21,Freelance Payment,11239,Income,Freelance,UPI
+T0715,2025-08-21,Medicine,3907,Expense,Healthcare,UPI
+T0995,2025-08-21,Water Bill,1038,Expense,Bills,Credit Card
+T1369,2025-08-21,Medicine,2996,Expense,Healthcare,Debit Card
+T1480,2025-08-21,Project Payment,13028,Income,Freelance,UPI
+T0160,2025-08-22,BigBasket,4463,Expense,Groceries,Debit Card
+T1074,2025-08-22,Groceries,1772,Expense,Groceries,Cash
+T1132,2025-08-22,Metro,485,Expense,Transport,UPI
+T1247,2025-08-22,OTT Subscription,1918,Expense,Entertainment,Debit Card
+T0291,2025-08-23,Monthly Salary,34536,Income,Salary,UPI
+T0561,2025-08-23,Bus Pass,441,Expense,Transport,Bank Transfer
+T0851,2025-08-23,PG Rent,11171,Expense,Rent,UPI
+T0986,2025-08-23,Vegetables,642,Expense,Groceries,Bank Transfer
+T1003,2025-08-23,Medical Store,5180,Expense,Healthcare,Cash
+T0008,2025-08-24,DMart,4822,Expense,Groceries,Credit Card
+T0068,2025-08-24,Mobile Recharge,493,Expense,Bills,Debit Card
+T0178,2025-08-24,Coffee,689,Expense,Food,Bank Transfer
+T0241,2025-08-24,College Fees,7455,Expense,Education,UPI
+T0355,2025-08-24,Stationery,6104,Expense,Education,Credit Card
+T0759,2025-08-24,Zomato,250,Expense,Food,UPI
+T1273,2025-08-24,Groceries,4516,Expense,Groceries,Cash
+T1100,2025-08-25,Gas Bill,1896,Expense,Bills,Bank Transfer
+T1361,2025-08-26,Clothes,4619,Expense,Shopping,Bank Transfer
+T1377,2025-08-26,Freelance Work,3908,Income,Freelance,Debit Card
+T1460,2025-08-26,OTT Subscription,785,Expense,Entertainment,UPI
+T0116,2025-08-27,Movie,1105,Expense,Entertainment,UPI
+T1019,2025-08-27,Train Ticket,899,Expense,Transport,Bank Transfer
+T1175,2025-08-27,Course Fee,3171,Expense,Education,Bank Transfer
+T1482,2025-08-27,House Rent,17816,Expense,Rent,Debit Card
+T0021,2025-08-28,House Rent,17145,Expense,Rent,UPI
+T0335,2025-08-28,Concert,194,Expense,Entertainment,UPI
+T0287,2025-08-29,Freelance Payment,6155,Income,Freelance,UPI
+T0418,2025-08-29,Books,6373,Expense,Education,Credit Card
+T0790,2025-08-29,Swiggy,1428,Expense,Food,Credit Card
+T0982,2025-08-29,Books,6648,Expense,Education,Cash
+T1266,2025-08-29,Shoes,756,Expense,Shopping,Cash
+T0392,2025-08-30,Freelance Work,14598,Income,Freelance,Debit Card
+T0804,2025-08-30,Flipkart,7102,Expense,Shopping,Cash
+T0825,2025-08-30,DMart,824,Expense,Groceries,Credit Card
+T1311,2025-08-30,Online Course,1944,Expense,Education,Debit Card
+T0293,2025-08-31,Internet Bill,3224,Expense,Bills,UPI
+T0650,2025-08-31,Shoes,6860,Expense,Shopping,UPI
+T0983,2025-08-31,Monthly Salary,29056,Income,Salary,Cash
+T0083,2025-09-01,Petrol,1747,Expense,Transport,Bank Transfer
+T0209,2025-09-01,Stationery,2086,Expense,Education,Cash
+T0843,2025-09-01,Gas Bill,2504,Expense,Bills,Debit Card
+T1209,2025-09-01,PG Rent,7083,Expense,Rent,Bank Transfer
+T0366,2025-09-02,Movie,1269,Expense,Entertainment,UPI
+T0376,2025-09-02,Electricity Bill,2436,Expense,Bills,Cash
+T0814,2025-09-02,Auto Rickshaw,2500,Expense,Transport,Bank Transfer
+T0850,2025-09-02,Lunch,906,Expense,Food,Debit Card
+T0581,2025-09-03,Freelance Payment,4248,Income,Freelance,Cash
+T1487,2025-09-03,Lunch,612,Expense,Food,Debit Card
+T1025,2025-09-04,Medicine,3988,Expense,Healthcare,Cash
+T1217,2025-09-04,OTT Subscription,2049,Expense,Entertainment,UPI
+T0329,2025-09-05,Stationery,2653,Expense,Education,Credit Card
+T0473,2025-09-05,Freelance Work,3901,Income,Freelance,Debit Card
+T0702,2025-09-05,Petrol,1855,Expense,Transport,UPI
+T0724,2025-09-05,Electronics,5039,Expense,Shopping,Debit Card
+T0028,2025-09-06,House Rent,8103,Expense,Rent,Cash
+T0099,2025-09-06,Project Payment,13127,Income,Freelance,Cash
+T0964,2025-09-06,House Rent,9054,Expense,Rent,Debit Card
+T0119,2025-09-07,Movie,1245,Expense,Entertainment,Bank Transfer
+T0509,2025-09-07,Zomato,1596,Expense,Food,Cash
+T0755,2025-09-07,Interest,3124,Income,Other Income,Bank Transfer
+T1059,2025-09-07,Other Income,3165,Income,Other Income,Bank Transfer
+T1073,2025-09-07,Amazon,1424,Expense,Shopping,Cash
+T1395,2025-09-07,Course Fee,1064,Expense,Education,Bank Transfer
+T0679,2025-09-08,Mobile Recharge,3604,Expense,Bills,UPI
+T1130,2025-09-08,Medical Store,2188,Expense,Healthcare,Debit Card
+T1435,2025-09-08,Gift Received,1053,Income,Other Income,UPI
+T0196,2025-09-10,Monthly Salary,40735,Income,Salary,Cash
+T1213,2025-09-10,Doctor Consultation,419,Expense,Healthcare,UPI
+T1216,2025-09-10,Bus Pass,1531,Expense,Transport,Bank Transfer
+T0369,2025-09-11,Netflix,137,Expense,Entertainment,Credit Card
+T0496,2025-09-11,Bus Pass,517,Expense,Transport,Credit Card
+T1092,2025-09-11,Vegetables,2249,Expense,Groceries,Cash
+T1166,2025-09-11,House Rent,17356,Expense,Rent,Cash
+T1325,2025-09-11,BigBasket,2065,Expense,Groceries,Credit Card
+T1381,2025-09-11,PG Rent,6606,Expense,Rent,Cash
+T0177,2025-09-12,Flipkart,4077,Expense,Shopping,Credit Card
+T0545,2025-09-12,College Fees,8485,Expense,Education,Bank Transfer
+T0688,2025-09-12,Internet Bill,4585,Expense,Bills,Debit Card
+T0690,2025-09-12,Medicine,2121,Expense,Healthcare,UPI
+T1031,2025-09-12,Online Course,5258,Expense,Education,Debit Card
+T1115,2025-09-12,Cashback,809,Income,Other Income,Cash
+T1133,2025-09-12,Electricity Bill,1960,Expense,Bills,Cash
+T1278,2025-09-12,Metro,2244,Expense,Transport,Debit Card
+T1337,2025-09-13,OTT Subscription,1576,Expense,Entertainment,Cash
+T0965,2025-09-14,Room Rent,6352,Expense,Rent,UPI
+T1298,2025-09-14,Room Rent,19582,Expense,Rent,Bank Transfer
+T0210,2025-09-15,Pizza,1038,Expense,Food,UPI
+T0271,2025-09-15,Accessories,1935,Expense,Shopping,Bank Transfer
+T0319,2025-09-15,Zomato,1161,Expense,Food,Debit Card
+T0836,2025-09-15,Metro,2152,Expense,Transport,Credit Card
+T0058,2025-09-16,Zomato,1399,Expense,Food,Cash
+T1428,2025-09-16,Other Income,1559,Income,Other Income,Bank Transfer
+T0053,2025-09-17,College Fees,4302,Expense,Education,Credit Card
+T0223,2025-09-17,Doctor Consultation,1086,Expense,Healthcare,Credit Card
+T0250,2025-09-17,Freelance Payment,2616,Income,Freelance,UPI
+T0265,2025-09-17,House Rent,16845,Expense,Rent,Credit Card
+T0467,2025-09-17,Groceries,601,Expense,Groceries,Credit Card
+T0535,2025-09-17,PG Rent,12939,Expense,Rent,Cash
+T1399,2025-09-17,Cashback,2182,Income,Other Income,Credit Card
+T0019,2025-09-18,Zomato,413,Expense,Food,Debit Card
+T0159,2025-09-18,Vegetables,4168,Expense,Groceries,Debit Card
+T0313,2025-09-18,Mobile Recharge,2239,Expense,Bills,Cash
+T0343,2025-09-18,Swiggy,179,Expense,Food,Debit Card
+T0347,2025-09-18,Concert,168,Expense,Entertainment,Credit Card
+T1054,2025-09-18,Cashback,3169,Income,Other Income,Bank Transfer
+T1075,2025-09-18,Health Checkup,3110,Expense,Healthcare,Debit Card
+T0244,2025-09-19,Room Rent,9176,Expense,Rent,Credit Card
+T0654,2025-09-19,Stationery,4931,Expense,Education,Credit Card
+T0687,2025-09-19,Auto Rickshaw,516,Expense,Transport,UPI
+T0785,2025-09-19,Project Payment,2173,Income,Freelance,Debit Card
+T0331,2025-09-21,Books,7942,Expense,Education,UPI
+T0345,2025-09-21,Gift Received,1831,Income,Other Income,Cash
+T0375,2025-09-21,DMart,1813,Expense,Groceries,Debit Card
+T1117,2025-09-21,Health Checkup,3772,Expense,Healthcare,Cash
+T0552,2025-09-22,DMart,4110,Expense,Groceries,Credit Card
+T0754,2025-09-22,Stationery,8635,Expense,Education,Cash
+T1316,2025-09-22,Accessories,5166,Expense,Shopping,Cash
+T1406,2025-09-22,College Fees,7551,Expense,Education,Debit Card
+T1496,2025-09-22,Electricity Bill,1141,Expense,Bills,UPI
+T1225,2025-09-23,Health Checkup,2987,Expense,Healthcare,Debit Card
+T1426,2025-09-23,Gaming,2143,Expense,Entertainment,Cash
+T0678,2025-09-24,Online Course,2492,Expense,Education,Credit Card
+T0899,2025-09-24,Water Bill,3487,Expense,Bills,Credit Card
+T0971,2025-09-24,Water Bill,2269,Expense,Bills,Bank Transfer
+T1017,2025-09-24,Health Checkup,1673,Expense,Healthcare,Bank Transfer
+T1184,2025-09-24,Pizza,953,Expense,Food,Bank Transfer
+T1245,2025-09-24,Project Payment,6723,Income,Freelance,Bank Transfer
+T0115,2025-09-25,Gaming,2304,Expense,Entertainment,Cash
+T0542,2025-09-25,Spotify,1623,Expense,Entertainment,Debit Card
+T0623,2025-09-25,Room Rent,13779,Expense,Rent,Bank Transfer
+T0808,2025-09-25,Room Rent,12877,Expense,Rent,Debit Card
+T0958,2025-09-25,PG Rent,16207,Expense,Rent,Debit Card
+T1161,2025-09-25,Gas Bill,4178,Expense,Bills,Cash
+T0350,2025-09-26,BigBasket,2284,Expense,Groceries,UPI
+T0371,2025-09-26,Accessories,4430,Expense,Shopping,Cash
+T0998,2025-09-26,Room Rent,8619,Expense,Rent,Cash
+T1032,2025-09-26,Auto Rickshaw,203,Expense,Transport,Debit Card
+T1103,2025-09-26,Freelance Payment,5594,Income,Freelance,Credit Card
+T1299,2025-09-26,Ola,550,Expense,Transport,Credit Card
+T0286,2025-09-27,Room Rent,6333,Expense,Rent,Cash
+T0316,2025-09-27,Groceries,904,Expense,Groceries,Debit Card
+T0926,2025-09-27,Shoes,6437,Expense,Shopping,Bank Transfer
+T1180,2025-09-27,Medicine,3902,Expense,Healthcare,Bank Transfer
+T1240,2025-09-28,Internet Bill,1707,Expense,Bills,Bank Transfer
+T1429,2025-09-28,Salary Credit,43510,Income,Salary,UPI
+T0723,2025-09-29,PG Rent,19743,Expense,Rent,Bank Transfer
+T1096,2025-09-29,Pizza,1732,Expense,Food,Cash
+T0810,2025-09-30,Uber,2025,Expense,Transport,Debit Card
+T0976,2025-09-30,Ola,1350,Expense,Transport,Debit Card
+T1064,2025-09-30,Doctor Consultation,1884,Expense,Healthcare,Credit Card
+T1095,2025-09-30,Vegetables,2451,Expense,Groceries,Debit Card
+T1098,2025-09-30,Groceries,2533,Expense,Groceries,Credit Card
+T0860,2025-10-01,Medicine,2255,Expense,Healthcare,Bank Transfer
+T0883,2025-10-01,Freelance Payment,6908,Income,Freelance,UPI
+T1082,2025-10-01,Health Checkup,4399,Expense,Healthcare,Cash
+T1371,2025-10-01,Freelance Work,2217,Income,Freelance,Debit Card
+T0538,2025-10-02,Auto Rickshaw,1841,Expense,Transport,Debit Card
+T0567,2025-10-02,Water Bill,2825,Expense,Bills,Cash
+T0749,2025-10-02,Books,3795,Expense,Education,Credit Card
+T0988,2025-10-02,Zomato,1024,Expense,Food,Cash
+T1027,2025-10-02,Gift Received,3396,Income,Other Income,UPI
+T0408,2025-10-03,Internet Bill,1482,Expense,Bills,Cash
+T0837,2025-10-03,OTT Subscription,1913,Expense,Entertainment,Cash
+T1150,2025-10-03,Coffee,1154,Expense,Food,UPI
+T1414,2025-10-03,Shoes,4730,Expense,Shopping,Credit Card
+T1470,2025-10-03,Other Income,1511,Income,Other Income,Credit Card
+T0030,2025-10-04,Internet Bill,3568,Expense,Bills,Credit Card
+T0878,2025-10-04,PG Rent,8213,Expense,Rent,Bank Transfer
+T1195,2025-10-04,PG Rent,7990,Expense,Rent,UPI
+T1261,2025-10-04,Dinner,343,Expense,Food,Cash
+T0312,2025-10-05,Spotify,813,Expense,Entertainment,Credit Card
+T0591,2025-10-05,Medical Store,939,Expense,Healthcare,UPI
+T0910,2025-10-05,Gas Bill,1828,Expense,Bills,Bank Transfer
+T0913,2025-10-05,Dinner,1602,Expense,Food,Debit Card
+T0973,2025-10-05,Interest,4934,Income,Other Income,Debit Card
+T0164,2025-10-06,Books,4212,Expense,Education,Bank Transfer
+T0497,2025-10-06,Stationery,981,Expense,Education,Cash
+T0783,2025-10-06,PG Rent,16713,Expense,Rent,Debit Card
+T0498,2025-10-07,DMart,2327,Expense,Groceries,Credit Card
+T0606,2025-10-07,Doctor Consultation,1532,Expense,Healthcare,Cash
+T1135,2025-10-07,Monthly Salary,33683,Income,Salary,Credit Card
+T0214,2025-10-08,Groceries,4646,Expense,Groceries,Credit Card
+T1313,2025-10-08,Medical Store,626,Expense,Healthcare,Debit Card
+T0029,2025-10-09,Room Rent,12932,Expense,Rent,Debit Card
+T0041,2025-10-09,Cashback,1264,Income,Other Income,Debit Card
+T0999,2025-10-09,Myntra,4932,Expense,Shopping,Debit Card
+T0478,2025-10-10,PG Rent,13570,Expense,Rent,Debit Card
+T0646,2025-10-10,Accessories,7627,Expense,Shopping,Credit Card
+T0077,2025-10-11,Project Payment,8211,Income,Freelance,Debit Card
+T0124,2025-10-11,Groceries,3009,Expense,Groceries,Credit Card
+T0420,2025-10-11,Reliance Smart,1548,Expense,Groceries,Debit Card
+T0549,2025-10-11,BigBasket,2936,Expense,Groceries,Debit Card
+T0935,2025-10-11,Amazon,609,Expense,Shopping,Cash
+T1122,2025-10-11,Project Payment,5129,Income,Freelance,Credit Card
+T1137,2025-10-11,Gas Bill,633,Expense,Bills,Debit Card
+T1248,2025-10-11,BigBasket,870,Expense,Groceries,Cash
+T0224,2025-10-12,Gaming,1026,Expense,Entertainment,Cash
+T0406,2025-10-12,Online Course,8892,Expense,Education,Credit Card
+T0490,2025-10-12,Spotify,866,Expense,Entertainment,Credit Card
+T1071,2025-10-12,Online Course,2827,Expense,Education,Credit Card
+T0135,2025-10-13,Gas Bill,3416,Expense,Bills,Cash
+T0405,2025-10-13,Electronics,5860,Expense,Shopping,Cash
+T0450,2025-10-13,DMart,515,Expense,Groceries,UPI
+T0820,2025-10-13,Stationery,9391,Expense,Education,Cash
+T1144,2025-10-13,Bus Pass,441,Expense,Transport,Bank Transfer
+T1392,2025-10-13,Salary Credit,36546,Income,Salary,Credit Card
+T0389,2025-10-14,OTT Subscription,189,Expense,Entertainment,Cash
+T0833,2025-10-14,Course Fee,4830,Expense,Education,Debit Card
+T1227,2025-10-14,Room Rent,17674,Expense,Rent,Bank Transfer
+T1493,2025-10-14,Freelance Payment,3570,Income,Freelance,Bank Transfer
+T0221,2025-10-15,Petrol,1498,Expense,Transport,Cash
+T0225,2025-10-15,House Rent,15977,Expense,Rent,Credit Card
+T0354,2025-10-15,Health Checkup,2770,Expense,Healthcare,Debit Card
+T0751,2025-10-15,Zomato,1469,Expense,Food,Credit Card
+T0441,2025-10-16,Groceries,3017,Expense,Groceries,Cash
+T0524,2025-10-16,Interest,4105,Income,Other Income,Credit Card
+T0838,2025-10-16,Internet Bill,4058,Expense,Bills,Cash
+T0050,2025-10-17,Spotify,1386,Expense,Entertainment,Debit Card
+T0436,2025-10-17,Bus Pass,224,Expense,Transport,Debit Card
+T0704,2025-10-17,Stationery,8870,Expense,Education,Bank Transfer
+T0776,2025-10-17,Online Course,3062,Expense,Education,UPI
+T0370,2025-10-18,Course Fee,7744,Expense,Education,Bank Transfer
+T0861,2025-10-18,Monthly Salary,29967,Income,Salary,Debit Card
+T1048,2025-10-18,Other Income,1296,Income,Other Income,Cash
+T1323,2025-10-18,Other Income,4216,Income,Other Income,Cash
+T1457,2025-10-18,Metro,2099,Expense,Transport,Debit Card
+T0938,2025-10-19,Train Ticket,1379,Expense,Transport,Cash
+T1265,2025-10-19,Room Rent,14837,Expense,Rent,Bank Transfer
+T1352,2025-10-19,Salary Credit,38589,Income,Salary,UPI
+T1443,2025-10-19,Medical Store,1185,Expense,Healthcare,Bank Transfer
+T0453,2025-10-20,BigBasket,1437,Expense,Groceries,Credit Card
+T0614,2025-10-20,Doctor Consultation,646,Expense,Healthcare,Credit Card
+T0625,2025-10-20,Amazon,6502,Expense,Shopping,Cash
+T0648,2025-10-20,Mobile Recharge,2144,Expense,Bills,Debit Card
+T0733,2025-10-20,Groceries,2642,Expense,Groceries,Cash
+T1347,2025-10-20,Ola,2090,Expense,Transport,UPI
+T0306,2025-10-21,Freelance Payment,7150,Income,Freelance,Credit Card
+T0351,2025-10-21,Ola,127,Expense,Transport,Cash
+T0378,2025-10-21,Gift Received,2435,Income,Other Income,UPI
+T1083,2025-10-21,Reliance Smart,2713,Expense,Groceries,Credit Card
+T0945,2025-10-22,Water Bill,2673,Expense,Bills,Cash
+T0036,2025-10-23,Health Checkup,1759,Expense,Healthcare,UPI
+T0334,2025-10-23,Mobile Recharge,4381,Expense,Bills,Bank Transfer
+T0403,2025-10-23,Books,5244,Expense,Education,Debit Card
+T0482,2025-10-23,Interest,3496,Income,Other Income,Credit Card
+T0940,2025-10-23,Lunch,812,Expense,Food,Cash
+T1490,2025-10-24,Monthly Salary,40366,Income,Salary,Credit Card
+T0666,2025-10-25,Petrol,846,Expense,Transport,Bank Transfer
+T0773,2025-10-25,Course Fee,2400,Expense,Education,Debit Card
+T0782,2025-10-25,Electricity Bill,4818,Expense,Bills,Credit Card
+T1420,2025-10-25,Room Rent,9831,Expense,Rent,Credit Card
+T0387,2025-10-26,PG Rent,19249,Expense,Rent,UPI
+T0574,2025-10-26,Uber,314,Expense,Transport,Debit Card
+T1066,2025-10-26,Other Income,1544,Income,Other Income,Credit Card
+T1169,2025-10-26,Freelance Payment,14645,Income,Freelance,Debit Card
+T0903,2025-10-27,Monthly Salary,29376,Income,Salary,Bank Transfer
+T0204,2025-10-28,Internet Bill,1508,Expense,Bills,Bank Transfer
+T0363,2025-10-28,Cafe,1406,Expense,Food,Debit Card
+T0839,2025-10-28,Medical Store,2312,Expense,Healthcare,UPI
+T1387,2025-10-28,Stationery,7975,Expense,Education,Debit Card
+T1456,2025-10-28,Gas Bill,1328,Expense,Bills,Credit Card
+T0005,2025-10-29,Restaurant,1529,Expense,Food,Cash
+T0681,2025-10-29,Auto Rickshaw,203,Expense,Transport,Cash
+T0741,2025-10-29,Mobile Recharge,2709,Expense,Bills,Cash
+T0799,2025-10-30,DMart,2296,Expense,Groceries,UPI
+T1056,2025-10-30,Gas Bill,1602,Expense,Bills,Cash
+T1349,2025-10-30,Metro,1375,Expense,Transport,Debit Card
+T0323,2025-10-31,Flipkart,5696,Expense,Shopping,Bank Transfer
+T1046,2025-10-31,Medicine,2759,Expense,Healthcare,Credit Card
+T1281,2025-10-31,Bus Pass,2225,Expense,Transport,Cash
+T0048,2025-11-01,Salary Credit,31928,Income,Salary,Bank Transfer
+T0252,2025-11-01,Medical Store,3884,Expense,Healthcare,Bank Transfer
+T0628,2025-11-01,Uber,1639,Expense,Transport,Bank Transfer
+T1351,2025-11-01,College Fees,7723,Expense,Education,Credit Card
+T1497,2025-11-01,Gas Bill,1332,Expense,Bills,Bank Transfer
+T0230,2025-11-02,Monthly Salary,33158,Income,Salary,Bank Transfer
+T0283,2025-11-02,Room Rent,9963,Expense,Rent,Debit Card
+T0349,2025-11-02,Electricity Bill,4235,Expense,Bills,Debit Card
+T1330,2025-11-02,Bus Pass,290,Expense,Transport,UPI
+T1453,2025-11-02,Health Checkup,1142,Expense,Healthcare,Credit Card
+T0829,2025-11-03,Gas Bill,1688,Expense,Bills,UPI
+T1061,2025-11-03,Other Income,3182,Income,Other Income,Cash
+T0805,2025-11-04,Interest,4684,Income,Other Income,Credit Card
+T0098,2025-11-05,Doctor Consultation,2435,Expense,Healthcare,Cash
+T0811,2025-11-05,Dinner,1169,Expense,Food,Cash
+T1008,2025-11-05,Uber,496,Expense,Transport,Cash
+T0324,2025-11-06,Swiggy,266,Expense,Food,UPI
+T0713,2025-11-06,Gaming,2403,Expense,Entertainment,Debit Card
+T0795,2025-11-06,Salary Credit,33426,Income,Salary,Debit Card
+T0184,2025-11-07,Mobile Recharge,2353,Expense,Bills,Debit Card
+T0232,2025-11-07,Spotify,2198,Expense,Entertainment,UPI
+T0382,2025-11-07,PG Rent,18408,Expense,Rent,Bank Transfer
+T0611,2025-11-07,Amazon,1129,Expense,Shopping,Credit Card
+T0809,2025-11-07,Project Payment,11827,Income,Freelance,UPI
+T0834,2025-11-07,Health Checkup,4909,Expense,Healthcare,UPI
+T0921,2025-11-07,Cafe,1442,Expense,Food,Cash
+T0025,2025-11-08,Books,9137,Expense,Education,Bank Transfer
+T0540,2025-11-08,Interest,1478,Income,Other Income,UPI
+T1468,2025-11-08,Restaurant,946,Expense,Food,Bank Transfer
+T0256,2025-11-09,Course Fee,6647,Expense,Education,Cash
+T0356,2025-11-09,Internet Bill,4871,Expense,Bills,Credit Card
+T0701,2025-11-09,Stationery,772,Expense,Education,Debit Card
+T1142,2025-11-09,Electronics,4395,Expense,Shopping,Bank Transfer
+T0089,2025-11-10,PG Rent,19608,Expense,Rent,Bank Transfer
+T0315,2025-11-10,Auto Rickshaw,1680,Expense,Transport,Cash
+T0353,2025-11-10,Restaurant,1162,Expense,Food,Debit Card
+T1014,2025-11-10,Cashback,4462,Income,Other Income,Bank Transfer
+T1239,2025-11-10,Uber,2418,Expense,Transport,UPI
+T0381,2025-11-11,Clothes,1554,Expense,Shopping,Cash
+T0486,2025-11-11,Myntra,1265,Expense,Shopping,Debit Card
+T0593,2025-11-11,Myntra,6173,Expense,Shopping,Debit Card
+T0610,2025-11-11,Dinner,1438,Expense,Food,Debit Card
+T0786,2025-11-11,House Rent,13310,Expense,Rent,Debit Card
+T0847,2025-11-11,Cashback,4450,Income,Other Income,Credit Card
+T1287,2025-11-11,Groceries,790,Expense,Groceries,Bank Transfer
+T0078,2025-11-12,Groceries,303,Expense,Groceries,Credit Card
+T0346,2025-11-12,Gaming,1477,Expense,Entertainment,Bank Transfer
+T0501,2025-11-12,Monthly Salary,29945,Income,Salary,Bank Transfer
+T0580,2025-11-12,Concert,1787,Expense,Entertainment,Bank Transfer
+T0953,2025-11-12,Doctor Consultation,3808,Expense,Healthcare,UPI
+T0266,2025-11-13,Freelance Work,4658,Income,Freelance,Debit Card
+T0846,2025-11-13,Uber,371,Expense,Transport,Cash
+T1373,2025-11-13,Online Course,5258,Expense,Education,UPI
+T0431,2025-11-14,Course Fee,6802,Expense,Education,UPI
+T0848,2025-11-14,Concert,849,Expense,Entertainment,Bank Transfer
+T1006,2025-11-14,Electricity Bill,1814,Expense,Bills,Debit Card
+T1333,2025-11-14,Reliance Smart,1383,Expense,Groceries,Bank Transfer
+T0697,2025-11-15,Auto Rickshaw,1453,Expense,Transport,Debit Card
+T0170,2025-11-16,Metro,1395,Expense,Transport,Bank Transfer
+T1016,2025-11-16,Shoes,4909,Expense,Shopping,Cash
+T1086,2025-11-16,Freelance Work,4077,Income,Freelance,Bank Transfer
+T1259,2025-11-16,Salary Credit,43270,Income,Salary,Debit Card
+T1280,2025-11-16,Train Ticket,2418,Expense,Transport,UPI
+T0781,2025-11-17,Monthly Salary,44619,Income,Salary,UPI
+T0969,2025-11-17,DMart,4846,Expense,Groceries,Credit Card
+T1146,2025-11-17,Netflix,893,Expense,Entertainment,UPI
+T1376,2025-11-17,House Rent,7410,Expense,Rent,Credit Card
+T1474,2025-11-17,Mobile Recharge,4345,Expense,Bills,Credit Card
+T0009,2025-11-18,Stationery,3450,Expense,Education,UPI
+T0185,2025-11-18,Cashback,3030,Income,Other Income,Cash
+T0507,2025-11-18,Medical Store,5390,Expense,Healthcare,UPI
+T1315,2025-11-18,Uber,696,Expense,Transport,Debit Card
+T1085,2025-11-19,Shoes,722,Expense,Shopping,Credit Card
+T1314,2025-11-19,Amazon,3582,Expense,Shopping,Debit Card
+T0465,2025-11-21,OTT Subscription,731,Expense,Entertainment,Cash
+T0717,2025-11-21,Gaming,2238,Expense,Entertainment,Credit Card
+T0114,2025-11-22,Doctor Consultation,3767,Expense,Healthcare,Debit Card
+T0510,2025-11-22,College Fees,9056,Expense,Education,Cash
+T1063,2025-11-22,Electronics,1522,Expense,Shopping,Cash
+T1416,2025-11-22,Pizza,594,Expense,Food,Credit Card
+T1438,2025-11-22,Health Checkup,1420,Expense,Healthcare,Credit Card
+T1466,2025-11-22,Medicine,2214,Expense,Healthcare,Credit Card
+T0091,2025-11-23,PG Rent,16268,Expense,Rent,Debit Card
+T0660,2025-11-23,Stationery,5218,Expense,Education,Debit Card
+T0901,2025-11-23,College Fees,3868,Expense,Education,UPI
+T0978,2025-11-23,Spotify,869,Expense,Entertainment,UPI
+T1093,2025-11-23,College Fees,4631,Expense,Education,UPI
+T0001,2025-11-24,Gift Received,2506,Income,Other Income,Debit Card
+T0301,2025-11-24,Zomato,1474,Expense,Food,Cash
+T0484,2025-11-24,Groceries,3515,Expense,Groceries,Bank Transfer
+T0597,2025-11-24,Books,9507,Expense,Education,Bank Transfer
+T0682,2025-11-24,Room Rent,6796,Expense,Rent,Bank Transfer
+T0867,2025-11-24,Online Course,9665,Expense,Education,Cash
+T1039,2025-11-24,Books,3454,Expense,Education,Credit Card
+T1141,2025-11-24,Health Checkup,2159,Expense,Healthcare,Debit Card
+T0070,2025-11-25,PG Rent,6452,Expense,Rent,UPI
+T0325,2025-11-25,OTT Subscription,963,Expense,Entertainment,Bank Transfer
+T0393,2025-11-25,Reliance Smart,3433,Expense,Groceries,Cash
+T0424,2025-11-25,House Rent,19747,Expense,Rent,UPI
+T0261,2025-11-26,Electronics,6057,Expense,Shopping,Bank Transfer
+T0707,2025-11-26,PG Rent,19957,Expense,Rent,Cash
+T1295,2025-11-26,Medical Store,653,Expense,Healthcare,UPI
+T1310,2025-11-26,Pizza,264,Expense,Food,Cash
+T0304,2025-11-27,Groceries,565,Expense,Groceries,Bank Transfer
+T0470,2025-11-27,Reliance Smart,3826,Expense,Groceries,UPI
+T0575,2025-11-27,Amazon,7714,Expense,Shopping,Credit Card
+T1062,2025-11-27,Ola,619,Expense,Transport,Bank Transfer
+T1385,2025-11-27,DMart,1621,Expense,Groceries,Credit Card
+T0373,2025-11-28,Amazon,6334,Expense,Shopping,Credit Card
+T0477,2025-11-28,Monthly Salary,44908,Income,Salary,Debit Card
+T0738,2025-11-28,Gas Bill,2656,Expense,Bills,UPI
+T1384,2025-11-28,Medical Store,4253,Expense,Healthcare,Bank Transfer
+T1401,2025-11-28,Amazon,7251,Expense,Shopping,Debit Card
+T0195,2025-11-29,Amazon,604,Expense,Shopping,Credit Card
+T0888,2025-11-29,Concert,870,Expense,Entertainment,UPI
+T0963,2025-11-29,Groceries,1115,Expense,Groceries,Credit Card
+T1055,2025-11-29,Project Payment,9552,Income,Freelance,Cash
+T1413,2025-11-29,Internet Bill,990,Expense,Bills,UPI
+T0253,2025-11-30,Doctor Consultation,706,Expense,Healthcare,Cash
+T0055,2025-12-01,PG Rent,16868,Expense,Rent,UPI
+T0869,2025-12-01,Gaming,1719,Expense,Entertainment,Credit Card
+T0169,2025-12-02,Petrol,1135,Expense,Transport,Credit Card
+T0294,2025-12-02,Metro,1557,Expense,Transport,Cash
+T0658,2025-12-02,Movie,1814,Expense,Entertainment,Cash
+T0663,2025-12-02,Freelance Work,14193,Income,Freelance,Credit Card
+T0714,2025-12-02,Course Fee,1189,Expense,Education,Debit Card
+T0827,2025-12-02,Restaurant,1411,Expense,Food,Cash
+T0975,2025-12-02,Myntra,855,Expense,Shopping,Bank Transfer
+T1372,2025-12-02,Groceries,4287,Expense,Groceries,Credit Card
+T0661,2025-12-03,Myntra,1099,Expense,Shopping,Cash
+T0920,2025-12-03,Netflix,1600,Expense,Entertainment,Debit Card
+T0929,2025-12-03,Medicine,2781,Expense,Healthcare,Bank Transfer
+T1105,2025-12-03,Gas Bill,1297,Expense,Bills,UPI
+T0529,2025-12-04,Gas Bill,4474,Expense,Bills,Debit Card
+T0722,2025-12-04,House Rent,14172,Expense,Rent,UPI
+T0918,2025-12-04,Monthly Salary,29024,Income,Salary,Debit Card
+T0404,2025-12-05,Reliance Smart,2554,Expense,Groceries,UPI
+T0446,2025-12-05,Spotify,401,Expense,Entertainment,UPI
+T0613,2025-12-05,Electricity Bill,706,Expense,Bills,Cash
+T0803,2025-12-05,Ola,1889,Expense,Transport,Bank Transfer
+T0872,2025-12-05,Ola,733,Expense,Transport,Cash
+T0962,2025-12-05,College Fees,612,Expense,Education,Credit Card
+T1108,2025-12-05,Medicine,3697,Expense,Healthcare,Credit Card
+T1271,2025-12-05,Internet Bill,995,Expense,Bills,UPI
+T0202,2025-12-06,Swiggy,1711,Expense,Food,Credit Card
+T0686,2025-12-06,Clothes,7104,Expense,Shopping,UPI
+T0218,2025-12-07,Electronics,7861,Expense,Shopping,Cash
+T0383,2025-12-07,Gas Bill,970,Expense,Bills,Bank Transfer
+T0517,2025-12-07,Amazon,3546,Expense,Shopping,Credit Card
+T1194,2025-12-07,Books,6409,Expense,Education,Cash
+T1357,2025-12-07,Project Payment,5274,Income,Freelance,Cash
+T0064,2025-12-08,Other Income,1766,Income,Other Income,Debit Card
+T0088,2025-12-08,Room Rent,11198,Expense,Rent,Cash
+T0234,2025-12-08,Water Bill,748,Expense,Bills,UPI
+T0379,2025-12-08,Freelance Work,8642,Income,Freelance,Bank Transfer
+T1204,2025-12-08,Electronics,7294,Expense,Shopping,Cash
+T1236,2025-12-08,Monthly Salary,34730,Income,Salary,Bank Transfer
+T1277,2025-12-08,Movie,1885,Expense,Entertainment,Debit Card
+T0035,2025-12-09,House Rent,17851,Expense,Rent,Bank Transfer
+T0118,2025-12-09,Coffee,765,Expense,Food,Debit Card
+T0425,2025-12-09,Salary Credit,32505,Income,Salary,Debit Card
+T0413,2025-12-10,Doctor Consultation,2927,Expense,Healthcare,Credit Card
+T0735,2025-12-10,Freelance Work,6695,Income,Freelance,Credit Card
+T0951,2025-12-10,Course Fee,3420,Expense,Education,Credit Card
+T1072,2025-12-10,Monthly Salary,28514,Income,Salary,Debit Card
+T1148,2025-12-10,Lunch,683,Expense,Food,Debit Card
+T1102,2025-12-11,Monthly Salary,41475,Income,Salary,UPI
+T0080,2025-12-12,Doctor Consultation,5597,Expense,Healthcare,UPI
+T1174,2025-12-12,Zomato,884,Expense,Food,Credit Card
+T0506,2025-12-13,Shoes,5480,Expense,Shopping,Credit Card
+T0695,2025-12-13,Uber,237,Expense,Transport,UPI
+T1152,2025-12-13,Electricity Bill,2971,Expense,Bills,Debit Card
+T1326,2025-12-13,Clothes,6791,Expense,Shopping,Debit Card
+T1393,2025-12-13,House Rent,19218,Expense,Rent,UPI
+T0270,2025-12-14,Health Checkup,2508,Expense,Healthcare,Cash
+T0303,2025-12-14,Restaurant,237,Expense,Food,Debit Card
+T1249,2025-12-14,Coffee,1476,Expense,Food,UPI
+T1450,2025-12-14,Books,745,Expense,Education,UPI
+T0020,2025-12-15,Petrol,1613,Expense,Transport,Bank Transfer
+T0341,2025-12-15,Amazon,3526,Expense,Shopping,Credit Card
+T0365,2025-12-15,Restaurant,933,Expense,Food,Cash
+T0520,2025-12-15,Lunch,1773,Expense,Food,UPI
+T1462,2025-12-15,Books,9887,Expense,Education,Bank Transfer
+T0022,2025-12-16,OTT Subscription,1493,Expense,Entertainment,UPI
+T0533,2025-12-16,Medical Store,336,Expense,Healthcare,Bank Transfer
+T0578,2025-12-16,Books,3366,Expense,Education,Credit Card
+T0844,2025-12-16,Water Bill,1935,Expense,Bills,Debit Card
+T0916,2025-12-16,House Rent,16044,Expense,Rent,Credit Card
+T1304,2025-12-16,Spotify,1586,Expense,Entertainment,Cash
+T0014,2025-12-17,Cafe,1783,Expense,Food,UPI
+T0111,2025-12-17,Metro,2368,Expense,Transport,UPI
+T0290,2025-12-17,Doctor Consultation,1304,Expense,Healthcare,UPI
+T0438,2025-12-17,Room Rent,16782,Expense,Rent,UPI
+T0655,2025-12-17,Salary Credit,37059,Income,Salary,Credit Card
+T1081,2025-12-17,Gaming,316,Expense,Entertainment,Credit Card
+T1173,2025-12-17,Project Payment,2898,Income,Freelance,Bank Transfer
+T0141,2025-12-18,OTT Subscription,910,Expense,Entertainment,Cash
+T0183,2025-12-18,Coffee,686,Expense,Food,Debit Card
+T0647,2025-12-19,Salary Credit,29626,Income,Salary,Debit Card
+T0981,2025-12-19,Shoes,7231,Expense,Shopping,Bank Transfer
+T1232,2025-12-19,Flipkart,1366,Expense,Shopping,UPI
+T0122,2025-12-20,Health Checkup,341,Expense,Healthcare,UPI
+T0180,2025-12-20,Spotify,1675,Expense,Entertainment,Cash
+T0199,2025-12-20,Health Checkup,2134,Expense,Healthcare,Credit Card
+T0904,2025-12-20,Myntra,6614,Expense,Shopping,UPI
+T1079,2025-12-20,Gift Received,4308,Income,Other Income,Bank Transfer
+T1230,2025-12-20,Medicine,1610,Expense,Healthcare,Credit Card
+T1306,2025-12-20,Internet Bill,4827,Expense,Bills,Cash
+T0267,2025-12-21,Electronics,3885,Expense,Shopping,UPI
+T0296,2025-12-21,PG Rent,19126,Expense,Rent,UPI
+T0464,2025-12-21,Project Payment,10180,Income,Freelance,Debit Card
+T0459,2025-12-22,Books,6824,Expense,Education,Credit Card
+T0959,2025-12-22,Dinner,1293,Expense,Food,Bank Transfer
+T1140,2025-12-22,Doctor Consultation,1888,Expense,Healthcare,Debit Card
+T1491,2025-12-22,Monthly Salary,42480,Income,Salary,UPI
+T0407,2025-12-23,Myntra,3383,Expense,Shopping,Debit Card
+T0415,2025-12-23,Water Bill,2260,Expense,Bills,Bank Transfer
+T0621,2025-12-23,Train Ticket,1458,Expense,Transport,Bank Transfer
+T0637,2025-12-23,Mobile Recharge,2761,Expense,Bills,Cash
+T1123,2025-12-23,Train Ticket,1521,Expense,Transport,Cash
+T1469,2025-12-23,Groceries,964,Expense,Groceries,UPI
+T1312,2025-12-24,Auto Rickshaw,1773,Expense,Transport,Bank Transfer
+T0108,2025-12-25,Books,2176,Expense,Education,Debit Card
+T0518,2025-12-25,DMart,1079,Expense,Groceries,UPI
+T0630,2025-12-25,PG Rent,7843,Expense,Rent,Cash
+T0728,2025-12-25,PG Rent,19812,Expense,Rent,Bank Transfer
+T0890,2025-12-25,Internet Bill,458,Expense,Bills,Debit Card
+T1051,2025-12-25,Course Fee,7726,Expense,Education,Cash
+T1303,2025-12-25,Stationery,7243,Expense,Education,Cash
+T1412,2025-12-25,Gas Bill,3922,Expense,Bills,Credit Card
+T0067,2025-12-26,Salary Credit,35288,Income,Salary,Debit Card
+T0120,2025-12-26,House Rent,14464,Expense,Rent,Debit Card
+T0125,2025-12-26,Movie,1044,Expense,Entertainment,UPI
+T0435,2025-12-26,Health Checkup,5483,Expense,Healthcare,Credit Card
+T0468,2025-12-26,Room Rent,16455,Expense,Rent,UPI
+T0505,2025-12-26,Mobile Recharge,2938,Expense,Bills,Debit Card
+T0685,2025-12-26,Pizza,961,Expense,Food,UPI
+T0718,2025-12-26,Salary Credit,32602,Income,Salary,Cash
+T1069,2025-12-26,Online Course,6952,Expense,Education,Cash
+T1228,2025-12-26,Petrol,1936,Expense,Transport,UPI
+T0380,2025-12-27,Train Ticket,1258,Expense,Transport,Credit Card
+T0590,2025-12-27,Shoes,1842,Expense,Shopping,Cash
+T1170,2025-12-27,Online Course,322,Expense,Education,UPI
+T1176,2025-12-27,Interest,1633,Income,Other Income,Credit Card
+T0166,2025-12-28,Vegetables,1546,Expense,Groceries,Cash
+T0279,2025-12-28,Zomato,138,Expense,Food,Credit Card
+T1015,2025-12-28,Course Fee,8908,Expense,Education,Bank Transfer
+T1030,2025-12-28,Pizza,947,Expense,Food,UPI
+T1342,2025-12-28,Petrol,217,Expense,Transport,Cash
+T1397,2025-12-28,Freelance Payment,14382,Income,Freelance,UPI
+T0541,2025-12-29,Monthly Salary,44266,Income,Salary,Credit Card
+T0731,2025-12-30,Shoes,4744,Expense,Shopping,Credit Card
+T0732,2025-12-30,Project Payment,9870,Income,Freelance,Bank Transfer
+T0745,2025-12-30,Restaurant,760,Expense,Food,Bank Transfer
+T1332,2025-12-30,Swiggy,619,Expense,Food,Bank Transfer
+T0212,2025-12-31,Uber,1369,Expense,Transport,Bank Transfer
+T1077,2025-12-31,Groceries,3306,Expense,Groceries,UPI
+T1191,2025-12-31,Flipkart,7175,Expense,Shopping,Debit Card
